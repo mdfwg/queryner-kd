@@ -1,0 +1,11588 @@
+{
+  "examples": [
+    {
+      "tokens": [
+        "patrick",
+        "shorts",
+        "men"
+      ],
+      "ner_tags": [
+        7,
+        9,
+        13
+      ]
+    },
+    {
+      "tokens": [
+        "shorts",
+        "high",
+        "waisted"
+      ],
+      "ner_tags": [
+        9,
+        31,
+        32
+      ]
+    },
+    {
+      "tokens": [
+        "organic",
+        "baby",
+        "clothes"
+      ],
+      "ner_tags": [
+        17,
+        13,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "gillette",
+        "gel",
+        "shaving",
+        "cream"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "raw",
+        "rolling",
+        "papers",
+        "with",
+        "tips"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        10,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "gt",
+        "performer",
+        "biycicleparts"
+      ],
+      "ner_tags": [
+        11,
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "dr",
+        "brad",
+        "has",
+        "gone",
+        "mad"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "24x36",
+        "deer",
+        "outdoor",
+        "mat"
+      ],
+      "ner_tags": [
+        1,
+        7,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "small",
+        "folding",
+        "desks",
+        "for",
+        "small",
+        "spaces"
+      ],
+      "ner_tags": [
+        1,
+        17,
+        9,
+        17,
+        18,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "dump",
+        "trump",
+        "hat"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "cakes",
+        "elegant"
+      ],
+      "ner_tags": [
+        9,
+        17
+      ]
+    },
+    {
+      "tokens": [
+        "sliding",
+        "fifth",
+        "wheel",
+        "hitch",
+        "kit"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "dark",
+        "chocolate",
+        "candy"
+      ],
+      "ner_tags": [
+        15,
+        16,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "sperry",
+        "flip",
+        "flops"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "men's",
+        "shaving"
+      ],
+      "ner_tags": [
+        13,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "3x3",
+        "post",
+        "it",
+        "notes"
+      ],
+      "ner_tags": [
+        1,
+        11,
+        12,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "volcom",
+        "bathing",
+        "suit",
+        "kids"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        10,
+        13
+      ]
+    },
+    {
+      "tokens": [
+        "aroma",
+        "6",
+        "cup",
+        "rice",
+        "cooker"
+      ],
+      "ner_tags": [
+        11,
+        1,
+        2,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "phosphate",
+        "pool",
+        "test",
+        "kit"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "ring",
+        "light",
+        "for",
+        "iphone"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        0,
+        25
+      ]
+    },
+    {
+      "tokens": [
+        "denim",
+        "scrub",
+        "sets"
+      ],
+      "ner_tags": [
+        15,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "happy",
+        "50th",
+        "birthday",
+        "decorations"
+      ],
+      "ner_tags": [
+        19,
+        20,
+        20,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "duster",
+        "with",
+        "extension",
+        "pole"
+      ],
+      "ner_tags": [
+        9,
+        17,
+        18,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "goodnfun",
+        "dog",
+        "treats"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "1/2",
+        "drive",
+        "impact",
+        "21",
+        "mm"
+      ],
+      "ner_tags": [
+        1,
+        9,
+        10,
+        1,
+        2
+      ]
+    },
+    {
+      "tokens": [
+        "frank",
+        "damazio"
+      ],
+      "ner_tags": [
+        11,
+        12
+      ]
+    },
+    {
+      "tokens": [
+        "sold",
+        "on",
+        "a",
+        "monday"
+      ],
+      "ner_tags": [
+        25,
+        26,
+        26,
+        26
+      ]
+    },
+    {
+      "tokens": [
+        "jaybird",
+        "bluetooth",
+        "wireless",
+        "true",
+        "view"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        17,
+        18,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "backpack",
+        "for",
+        "girls",
+        "lunchbox"
+      ],
+      "ner_tags": [
+        9,
+        13,
+        14,
+        17
+      ]
+    },
+    {
+      "tokens": [
+        "breastfeeding",
+        "night",
+        "light"
+      ],
+      "ner_tags": [
+        19,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "camellias",
+        "waist",
+        "trainer"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "fitted",
+        "baseball",
+        "caps",
+        "for",
+        "men"
+      ],
+      "ner_tags": [
+        31,
+        9,
+        10,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "step",
+        "2",
+        "climber"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "precision",
+        "turntable",
+        "bearing"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "jewelry",
+        "bags",
+        "5x7",
+        "inch"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        1,
+        2
+      ]
+    },
+    {
+      "tokens": [
+        "iphone",
+        "xs",
+        "max",
+        "screen",
+        "protector"
+      ],
+      "ner_tags": [
+        25,
+        26,
+        26,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "mickey",
+        "mouse",
+        "flannel",
+        "fabric"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        15,
+        16
+      ]
+    },
+    {
+      "tokens": [
+        "dyson",
+        "vacuum",
+        "cleaner"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "waterproof",
+        "hunting",
+        "coveralls"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "pocari",
+        "sweat"
+      ],
+      "ner_tags": [
+        25,
+        26
+      ]
+    },
+    {
+      "tokens": [
+        "cinnamon",
+        "candy",
+        "balls",
+        "soft"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10,
+        17
+      ]
+    },
+    {
+      "tokens": [
+        "metguard",
+        "boots",
+        "for",
+        "men"
+      ],
+      "ner_tags": [
+        25,
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "skin",
+        "lightening",
+        "cream"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "distilling",
+        "supplies"
+      ],
+      "ner_tags": [
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "rust",
+        "remover",
+        "for",
+        "stainless",
+        "steel"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        17,
+        18,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "chameleon",
+        "substrate"
+      ],
+      "ner_tags": [
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "yellow",
+        "wood",
+        "stray",
+        "kids",
+        "album"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        11,
+        12,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "cooking",
+        "pot"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "manwan",
+        "walk",
+        "shirts"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "5t",
+        "winter",
+        "dresses"
+      ],
+      "ner_tags": [
+        11,
+        19,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "white",
+        "tights",
+        "for",
+        "women"
+      ],
+      "ner_tags": [
+        3,
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "bella",
+        "taylor",
+        "luna",
+        "cash",
+        "system",
+        "wallet"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        25,
+        26,
+        26,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "10",
+        "men",
+        "sexy",
+        "lingerie",
+        "without",
+        "leg"
+      ],
+      "ner_tags": [
+        0,
+        13,
+        7,
+        9,
+        5,
+        6
+      ]
+    },
+    {
+      "tokens": [
+        "rv",
+        "gray",
+        "tank",
+        "rod"
+      ],
+      "ner_tags": [
+        17,
+        3,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "ultalife",
+        "blood",
+        "pressure"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "queen",
+        "ann",
+        "chocolate",
+        "covered",
+        "cherries"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "women",
+        "dresses",
+        "for",
+        "church"
+      ],
+      "ner_tags": [
+        13,
+        9,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "christmas",
+        "gift",
+        "for",
+        "husband"
+      ],
+      "ner_tags": [
+        19,
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "paper",
+        "backdrops",
+        "for",
+        "photography"
+      ],
+      "ner_tags": [
+        15,
+        9,
+        19,
+        20
+      ]
+    },
+    {
+      "tokens": [
+        "car",
+        "phone",
+        "holder",
+        "note",
+        "9"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        10,
+        25,
+        26
+      ]
+    },
+    {
+      "tokens": [
+        "butcher",
+        "block",
+        "table"
+      ],
+      "ner_tags": [
+        17,
+        18,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "promenade",
+        "tops"
+      ],
+      "ner_tags": [
+        31,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "photo",
+        "storage"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "28",
+        "oz",
+        "tent"
+      ],
+      "ner_tags": [
+        1,
+        2,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "book",
+        "whisperer"
+      ],
+      "ner_tags": [
+        7,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "gaming",
+        "laptops",
+        "with",
+        "rgb"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "sharpie",
+        "oil",
+        "based"
+      ],
+      "ner_tags": [
+        11,
+        15,
+        16
+      ]
+    },
+    {
+      "tokens": [
+        "leaf",
+        "mulcher"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "womens",
+        "black",
+        "under",
+        "armour",
+        "zip"
+      ],
+      "ner_tags": [
+        13,
+        3,
+        11,
+        12,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "aloe",
+        "vera",
+        "gel"
+      ],
+      "ner_tags": [
+        15,
+        16,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "fashion",
+        "style",
+        "transparent",
+        "mouth",
+        "and",
+        "eye",
+        "mask"
+      ],
+      "ner_tags": [
+        17,
+        18,
+        3,
+        9,
+        10,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "women",
+        "blue",
+        "light",
+        "blocking",
+        "glasses"
+      ],
+      "ner_tags": [
+        13,
+        17,
+        18,
+        18,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "comfy",
+        "beanie"
+      ],
+      "ner_tags": [
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "portable",
+        "infrared",
+        "heaters",
+        "for",
+        "the",
+        "home"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10,
+        17,
+        18,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "15x70",
+        "binoculars"
+      ],
+      "ner_tags": [
+        1,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "star",
+        "wars",
+        "destiny",
+        "starter",
+        "set"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        8,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "hanes",
+        "boxer",
+        "briefs",
+        "button",
+        "fly"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        17,
+        18,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "the",
+        "anxiety",
+        "journal"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "silverstone",
+        "pp08",
+        "adapter"
+      ],
+      "ner_tags": [
+        11,
+        25,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "led",
+        "candy",
+        "cane",
+        "pathway",
+        "lights"
+      ],
+      "ner_tags": [
+        17,
+        31,
+        32,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "flylow",
+        "jacket"
+      ],
+      "ner_tags": [
+        11,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "drill",
+        "bag"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "beef",
+        "collagen",
+        "powder"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "stockings",
+        "xmas"
+      ],
+      "ner_tags": [
+        9,
+        19
+      ]
+    },
+    {
+      "tokens": [
+        "preschool",
+        "workbook"
+      ],
+      "ner_tags": [
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "backseat",
+        "car",
+        "organizer"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "usb",
+        "128"
+      ],
+      "ner_tags": [
+        9,
+        1
+      ]
+    },
+    {
+      "tokens": [
+        "pink",
+        "stemware",
+        "glasses"
+      ],
+      "ner_tags": [
+        3,
+        0,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "labor",
+        "socks"
+      ],
+      "ner_tags": [
+        0,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "baby",
+        "bath",
+        "tubs",
+        "for",
+        "infants"
+      ],
+      "ner_tags": [
+        13,
+        9,
+        10,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "oakley",
+        "path",
+        "replacement",
+        "lens"
+      ],
+      "ner_tags": [
+        11,
+        25,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "harmony",
+        "kardon",
+        "powered",
+        "speakers"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "green",
+        "rustoleum",
+        "spray",
+        "paint"
+      ],
+      "ner_tags": [
+        3,
+        11,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "dell",
+        "g7",
+        "17"
+      ],
+      "ner_tags": [
+        11,
+        25,
+        26
+      ]
+    },
+    {
+      "tokens": [
+        "julia",
+        "misbehaves"
+      ],
+      "ner_tags": [
+        7,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "black",
+        "gloves"
+      ],
+      "ner_tags": [
+        3,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "sheep",
+        "cookie"
+      ],
+      "ner_tags": [
+        31,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "edifier",
+        "speakers"
+      ],
+      "ner_tags": [
+        11,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "mini",
+        "power",
+        "washer"
+      ],
+      "ner_tags": [
+        31,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "cntice",
+        "nipper"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "cherokee",
+        "workwear",
+        "revolution",
+        "scrubs",
+        "women"
+      ],
+      "ner_tags": [
+        11,
+        25,
+        26,
+        26,
+        13
+      ]
+    },
+    {
+      "tokens": [
+        "google",
+        "computers",
+        "devices"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "full",
+        "size",
+        "flannel",
+        "sheets",
+        "set"
+      ],
+      "ner_tags": [
+        1,
+        2,
+        15,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "glasses",
+        "chain",
+        "with",
+        "clips"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        31,
+        32
+      ]
+    },
+    {
+      "tokens": [
+        "hurling",
+        "stick"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "white",
+        "swim",
+        "caps",
+        "kids"
+      ],
+      "ner_tags": [
+        3,
+        9,
+        10,
+        13
+      ]
+    },
+    {
+      "tokens": [
+        "smart",
+        "watch",
+        "sport",
+        "waterproof"
+      ],
+      "ner_tags": [
+        25,
+        26,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "rectangular",
+        "basket",
+        "with",
+        "lid",
+        "11",
+        "inches",
+        "wide"
+      ],
+      "ner_tags": [
+        31,
+        9,
+        17,
+        18,
+        1,
+        2,
+        17
+      ]
+    },
+    {
+      "tokens": [
+        "drywall",
+        "screwdriver"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "microphone",
+        "stand",
+        "boom",
+        "round",
+        "base"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10,
+        31,
+        32
+      ]
+    },
+    {
+      "tokens": [
+        "sanrio",
+        "shirt"
+      ],
+      "ner_tags": [
+        7,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "barrister",
+        "bookcase"
+      ],
+      "ner_tags": [
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "aveeno",
+        "lotion",
+        "daily",
+        "moisturizing"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        25,
+        26
+      ]
+    },
+    {
+      "tokens": [
+        "clearance",
+        "hinged",
+        "christmas",
+        "tree"
+      ],
+      "ner_tags": [
+        23,
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "husquarvana",
+        "snowblower",
+        "feet"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "desk",
+        "for",
+        "two",
+        "people"
+      ],
+      "ner_tags": [
+        9,
+        17,
+        18,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "spiraler",
+        "for",
+        "veggies"
+      ],
+      "ner_tags": [
+        9,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "android",
+        "grip"
+      ],
+      "ner_tags": [
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "weightless",
+        "tea",
+        "for",
+        "women"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "lang",
+        "jigsaw",
+        "puzzles",
+        "500",
+        "pieces",
+        "for",
+        "adults"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        10,
+        29,
+        30,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "girls",
+        "high",
+        "heels",
+        "size",
+        "1"
+      ],
+      "ner_tags": [
+        13,
+        9,
+        10,
+        1,
+        2
+      ]
+    },
+    {
+      "tokens": [
+        "kelty",
+        "redwing",
+        "40"
+      ],
+      "ner_tags": [
+        11,
+        25,
+        26
+      ]
+    },
+    {
+      "tokens": [
+        "halloween",
+        "spider",
+        "leggings"
+      ],
+      "ner_tags": [
+        19,
+        3,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "teal",
+        "bowl"
+      ],
+      "ner_tags": [
+        3,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "bridal",
+        "hair",
+        "clip"
+      ],
+      "ner_tags": [
+        19,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "bunk",
+        "beds",
+        "twin",
+        "over",
+        "twin"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        17,
+        18,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "kids",
+        "vans",
+        "size",
+        "4"
+      ],
+      "ner_tags": [
+        13,
+        11,
+        1,
+        2
+      ]
+    },
+    {
+      "tokens": [
+        "kate",
+        "mack",
+        "girls",
+        "16"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        13,
+        1
+      ]
+    },
+    {
+      "tokens": [
+        "ring",
+        "guard",
+        "gold"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        15
+      ]
+    },
+    {
+      "tokens": [
+        "scrapbook",
+        "paper",
+        "pink"
+      ],
+      "ner_tags": [
+        9,
+        15,
+        3
+      ]
+    },
+    {
+      "tokens": [
+        "straight",
+        "razor",
+        "blades",
+        "double",
+        "edge"
+      ],
+      "ner_tags": [
+        31,
+        9,
+        10,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "womens",
+        "belt",
+        "without",
+        "buckle"
+      ],
+      "ner_tags": [
+        13,
+        9,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "star",
+        "wars",
+        "pencil",
+        "case"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "womens",
+        "sweatshirts",
+        "without",
+        "hoods"
+      ],
+      "ner_tags": [
+        13,
+        9,
+        31,
+        32
+      ]
+    },
+    {
+      "tokens": [
+        "alesis",
+        "midi"
+      ],
+      "ner_tags": [
+        11,
+        25
+      ]
+    },
+    {
+      "tokens": [
+        "sexy",
+        "plus",
+        "size",
+        "lingerie"
+      ],
+      "ner_tags": [
+        17,
+        1,
+        2,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "catchers",
+        "wrist",
+        "guard"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "hand",
+        "vacuum",
+        "pump"
+      ],
+      "ner_tags": [
+        17,
+        18,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "heater",
+        "air",
+        "conditioner",
+        "combo"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "dodge",
+        "challenger",
+        "car",
+        "accessories"
+      ],
+      "ner_tags": [
+        17,
+        18,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "bookbag",
+        "with",
+        "wheels"
+      ],
+      "ner_tags": [
+        9,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "1lb",
+        "dumbbells"
+      ],
+      "ner_tags": [
+        1,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "white",
+        "castle",
+        "merchandise"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "running",
+        "ahort"
+      ],
+      "ner_tags": [
+        19,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "lip",
+        "gloss",
+        "clear",
+        "coconut",
+        "oil"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        3,
+        15,
+        16
+      ]
+    },
+    {
+      "tokens": [
+        "prostate",
+        "massagger",
+        "for",
+        "men"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "mini",
+        "drone",
+        "quad"
+      ],
+      "ner_tags": [
+        31,
+        9,
+        25
+      ]
+    },
+    {
+      "tokens": [
+        "combat",
+        "instructor",
+        "patches"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "silka",
+        "papaya",
+        "soap"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "iowhey",
+        "100%",
+        "whey",
+        "isolate",
+        "protein"
+      ],
+      "ner_tags": [
+        25,
+        25,
+        26,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "casino",
+        "royale",
+        "prime"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        11
+      ]
+    },
+    {
+      "tokens": [
+        "ravens",
+        "license",
+        "plate"
+      ],
+      "ner_tags": [
+        7,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "celebrity",
+        "cookbooks"
+      ],
+      "ner_tags": [
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "protective",
+        "pet",
+        "collar"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "first",
+        "second",
+        "third",
+        "place",
+        "ribbons"
+      ],
+      "ner_tags": [
+        17,
+        18,
+        18,
+        18,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "scuf",
+        "vantage",
+        "controllers",
+        "for",
+        "ps4"
+      ],
+      "ner_tags": [
+        25,
+        26,
+        9,
+        0,
+        25
+      ]
+    },
+    {
+      "tokens": [
+        "zen",
+        "dry",
+        "brush"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "radar",
+        "speed",
+        "signs"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "overstuffed",
+        "couch"
+      ],
+      "ner_tags": [
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "iphone",
+        "11",
+        "silicone",
+        "cases"
+      ],
+      "ner_tags": [
+        25,
+        26,
+        15,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "octo",
+        "link",
+        "amiibo"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        25
+      ]
+    },
+    {
+      "tokens": [
+        "hair",
+        "topper"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "tool",
+        "chest",
+        "combo"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "swiss",
+        "army",
+        "watches",
+        "for",
+        "men"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "dead",
+        "like",
+        "me"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "snare",
+        "stand"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "school",
+        "counselor",
+        "shirts",
+        "for",
+        "women"
+      ],
+      "ner_tags": [
+        17,
+        18,
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "sparklers",
+        "candles",
+        "for",
+        "cake"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "the",
+        "10",
+        "commandments"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "d",
+        "ring",
+        "belts",
+        "for",
+        "men"
+      ],
+      "ner_tags": [
+        31,
+        32,
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "plastic",
+        "babies"
+      ],
+      "ner_tags": [
+        15,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "dark",
+        "purple",
+        "boutonniere"
+      ],
+      "ner_tags": [
+        3,
+        4,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "vacally",
+        "ballroom",
+        "dress"
+      ],
+      "ner_tags": [
+        17,
+        18,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "arcade",
+        "cabinet"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "victoria",
+        "secret",
+        "pink",
+        "perfume"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        25,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "wooden",
+        "planes"
+      ],
+      "ner_tags": [
+        15,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "high",
+        "waisted",
+        "baggy",
+        "jeans"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "extra",
+        "large",
+        "christmas",
+        "welcome",
+        "mat"
+      ],
+      "ner_tags": [
+        1,
+        2,
+        19,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "used",
+        "golf",
+        "balls",
+        "in",
+        "bulk",
+        "cheap"
+      ],
+      "ner_tags": [
+        5,
+        9,
+        10,
+        29,
+        30,
+        23
+      ]
+    },
+    {
+      "tokens": [
+        "superman",
+        "shirts",
+        "for",
+        "men"
+      ],
+      "ner_tags": [
+        7,
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "paper",
+        "towel"
+      ],
+      "ner_tags": [
+        15,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "hunting",
+        "fanny",
+        "packs",
+        "for",
+        "men"
+      ],
+      "ner_tags": [
+        19,
+        9,
+        10,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "reusable",
+        "boba",
+        "straw"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "guitar",
+        "strings"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "carpet",
+        "deodorizer"
+      ],
+      "ner_tags": [
+        9,
+        17
+      ]
+    },
+    {
+      "tokens": [
+        "suction",
+        "vibrarter",
+        "for",
+        "women"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "cookie",
+        "monster",
+        "custome"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "shock",
+        "absorber"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "fuel",
+        "pump"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "cute",
+        "slides"
+      ],
+      "ner_tags": [
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "dyson",
+        "heating",
+        "and",
+        "cooling",
+        "fan"
+      ],
+      "ner_tags": [
+        11,
+        17,
+        18,
+        18,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "raclette",
+        "round"
+      ],
+      "ner_tags": [
+        9,
+        31
+      ]
+    },
+    {
+      "tokens": [
+        "hay",
+        "trough",
+        "horse"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "puzzles",
+        "for",
+        "4",
+        "to",
+        "8"
+      ],
+      "ner_tags": [
+        9,
+        13,
+        14,
+        14,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "star",
+        "wars",
+        "jedi",
+        "fallen",
+        "order",
+        "xbox",
+        "one"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        8,
+        8,
+        25,
+        26
+      ]
+    },
+    {
+      "tokens": [
+        "meyer",
+        "joyce"
+      ],
+      "ner_tags": [
+        11,
+        12
+      ]
+    },
+    {
+      "tokens": [
+        "blue",
+        "print",
+        "case"
+      ],
+      "ner_tags": [
+        3,
+        4,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "kelly",
+        "willis",
+        "bruce",
+        "robison",
+        "our",
+        "year"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        11,
+        12,
+        7,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "pet",
+        "mat"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "mirror",
+        "bathroom",
+        "shower"
+      ],
+      "ner_tags": [
+        9,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "next",
+        "level",
+        "tanks"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "organic",
+        "cleaning",
+        "for",
+        "tile"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "pink",
+        "white",
+        "and",
+        "gold",
+        "balloons"
+      ],
+      "ner_tags": [
+        3,
+        3,
+        0,
+        3,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "vase",
+        "fillers"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "copper",
+        "chef",
+        "frying",
+        "pan"
+      ],
+      "ner_tags": [
+        15,
+        17,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "easy",
+        "vegan",
+        "cookbooks",
+        "for",
+        "beginners"
+      ],
+      "ner_tags": [
+        0,
+        9,
+        10,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "rolling",
+        "tray",
+        "bundle"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "post",
+        "card"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "actron",
+        "auto",
+        "scanner"
+      ],
+      "ner_tags": [
+        11,
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "pet",
+        "potty",
+        "grass",
+        "mat"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "panacure",
+        "c",
+        "for",
+        "dogs"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "serenity",
+        "matthew",
+        "mcconaughey",
+        "movie"
+      ],
+      "ner_tags": [
+        7,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "essie",
+        "red",
+        "nail",
+        "polish"
+      ],
+      "ner_tags": [
+        11,
+        3,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "thunderbolt",
+        "3",
+        "to",
+        "dual",
+        "hdmi",
+        "2.0",
+        "adapter"
+      ],
+      "ner_tags": [
+        17,
+        18,
+        18,
+        18,
+        18,
+        18,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "bushnell",
+        "match",
+        "pro",
+        "rifle",
+        "scope"
+      ],
+      "ner_tags": [
+        11,
+        25,
+        26,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "42",
+        "is",
+        "not",
+        "just",
+        "a",
+        "number"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "magnets",
+        "toys",
+        "for",
+        "kids"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "aluminum",
+        "welding",
+        "rods",
+        "for",
+        "propane"
+      ],
+      "ner_tags": [
+        15,
+        9,
+        10,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "skin",
+        "toner",
+        "dark",
+        "skin"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "oxford",
+        "handbook",
+        "of",
+        "infectious",
+        "diseases",
+        "and",
+        "microbiology"
+      ],
+      "ner_tags": [
+        11,
+        7,
+        8,
+        8,
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "1/2",
+        "irrigation",
+        "tubing",
+        "without",
+        "holes"
+      ],
+      "ner_tags": [
+        1,
+        9,
+        10,
+        5,
+        6
+      ]
+    },
+    {
+      "tokens": [
+        "zircon",
+        "stud",
+        "finder"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "y.s",
+        "park",
+        "combs"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "mattress",
+        "set"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "stop",
+        "staring",
+        "at",
+        "my",
+        "cock",
+        "shorts"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        8,
+        8,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "johnny",
+        "cash",
+        "shirt",
+        "women"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        9,
+        13
+      ]
+    },
+    {
+      "tokens": [
+        "artist",
+        "paint",
+        "sable",
+        "brushes"
+      ],
+      "ner_tags": [
+        17,
+        19,
+        15,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "i'm",
+        "a",
+        "simple",
+        "woman",
+        "t",
+        "shirt"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "litman",
+        "cardiolgy",
+        "6"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        25
+      ]
+    },
+    {
+      "tokens": [
+        "modern",
+        "dresser"
+      ],
+      "ner_tags": [
+        33,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "fall",
+        "maxi",
+        "dress"
+      ],
+      "ner_tags": [
+        19,
+        31,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "are",
+        "we",
+        "not",
+        "cats"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "diversion",
+        "safes",
+        "and",
+        "containers"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "thoughts",
+        "are",
+        "not",
+        "the",
+        "enemy"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "blue",
+        "lollipops"
+      ],
+      "ner_tags": [
+        3,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "wedding",
+        "dress",
+        "hanger"
+      ],
+      "ner_tags": [
+        17,
+        18,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "xrite",
+        "i1display"
+      ],
+      "ner_tags": [
+        11,
+        25
+      ]
+    },
+    {
+      "tokens": [
+        "unisex",
+        "baby",
+        "clothes"
+      ],
+      "ner_tags": [
+        17,
+        13,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "pineapple",
+        "mens",
+        "swim",
+        "trunks"
+      ],
+      "ner_tags": [
+        3,
+        13,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "computer",
+        "cases"
+      ],
+      "ner_tags": [
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "1/2",
+        "pint",
+        "double",
+        "wall",
+        "containers",
+        "without",
+        "lids"
+      ],
+      "ner_tags": [
+        1,
+        2,
+        17,
+        9,
+        10,
+        5,
+        6
+      ]
+    },
+    {
+      "tokens": [
+        "radio",
+        "bluetooth",
+        "transmitter",
+        "for",
+        "car"
+      ],
+      "ner_tags": [
+        9,
+        17,
+        18,
+        18,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "seiko",
+        "self",
+        "winding",
+        "watches",
+        "for",
+        "women"
+      ],
+      "ner_tags": [
+        11,
+        17,
+        18,
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "babys",
+        "toys",
+        "3-6",
+        "months"
+      ],
+      "ner_tags": [
+        13,
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "iron",
+        "robe",
+        "hook",
+        "bird"
+      ],
+      "ner_tags": [
+        15,
+        9,
+        10,
+        31
+      ]
+    },
+    {
+      "tokens": [
+        "garland",
+        "wall",
+        "hanging"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "rustic",
+        "corner",
+        "cabinet",
+        "for",
+        "dining",
+        "room"
+      ],
+      "ner_tags": [
+        17,
+        31,
+        9,
+        17,
+        18,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "family",
+        "stockings"
+      ],
+      "ner_tags": [
+        13,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "filding",
+        "fan"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "guardian",
+        "connect",
+        "medtronic"
+      ],
+      "ner_tags": [
+        25,
+        26,
+        11
+      ]
+    },
+    {
+      "tokens": [
+        "mouse",
+        "ears"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "ingrown",
+        "hair",
+        "treatment"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "espresso",
+        "desk"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "black",
+        "fanny",
+        "pack"
+      ],
+      "ner_tags": [
+        3,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "cuisinart",
+        "white",
+        "knife",
+        "set"
+      ],
+      "ner_tags": [
+        11,
+        3,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "placa",
+        "gráfica"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "string",
+        "lights",
+        "usb",
+        "powered"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "9.7",
+        "inch",
+        "ipad",
+        "case",
+        "gold"
+      ],
+      "ner_tags": [
+        1,
+        2,
+        25,
+        9,
+        3
+      ]
+    },
+    {
+      "tokens": [
+        "32",
+        "inch",
+        "smart",
+        "tv",
+        "4k"
+      ],
+      "ner_tags": [
+        1,
+        2,
+        17,
+        9,
+        17
+      ]
+    },
+    {
+      "tokens": [
+        "chopping",
+        "block"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "push",
+        "up",
+        "bra"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "electronic",
+        "display",
+        "counter"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "skinny",
+        "syrups",
+        "sugar",
+        "free"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "skullcandy",
+        "crusher",
+        "anc"
+      ],
+      "ner_tags": [
+        11,
+        25,
+        26
+      ]
+    },
+    {
+      "tokens": [
+        "kidz",
+        "bop",
+        "music",
+        "cd"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "tignanello",
+        "bag"
+      ],
+      "ner_tags": [
+        11,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "rv",
+        "black",
+        "water",
+        "hose"
+      ],
+      "ner_tags": [
+        17,
+        3,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "leather",
+        "jackets",
+        "for",
+        "men"
+      ],
+      "ner_tags": [
+        15,
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "kvd",
+        "liner"
+      ],
+      "ner_tags": [
+        11,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "washstand",
+        "sink"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "fortnite",
+        "toys",
+        "battle",
+        "bus"
+      ],
+      "ner_tags": [
+        7,
+        9,
+        25,
+        26
+      ]
+    },
+    {
+      "tokens": [
+        "letter",
+        "template"
+      ],
+      "ner_tags": [
+        0,
+        0
+      ]
+    },
+    {
+      "tokens": [
+        "hey",
+        "dude",
+        "shoes",
+        "for",
+        "men"
+      ],
+      "ner_tags": [
+        17,
+        18,
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "breathing",
+        "machine",
+        "nebulizer"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        17
+      ]
+    },
+    {
+      "tokens": [
+        "pets",
+        "mats"
+      ],
+      "ner_tags": [
+        13,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "carpet",
+        "runner"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "recorder",
+        "pen"
+      ],
+      "ner_tags": [
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "sony",
+        "e",
+        "mount",
+        "lens"
+      ],
+      "ner_tags": [
+        11,
+        17,
+        18,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "glow",
+        "in",
+        "the",
+        "dark",
+        "powder"
+      ],
+      "ner_tags": [
+        17,
+        18,
+        18,
+        18,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "tfal",
+        "nonstick",
+        "frying",
+        "pans"
+      ],
+      "ner_tags": [
+        11,
+        17,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "bissell",
+        "power",
+        "fresh",
+        "steam",
+        "mop"
+      ],
+      "ner_tags": [
+        11,
+        25,
+        26,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "wwe",
+        "pictures"
+      ],
+      "ner_tags": [
+        7,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "playstation",
+        "ps3",
+        "av"
+      ],
+      "ner_tags": [
+        25,
+        25,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "gifts",
+        "for",
+        "3",
+        "year",
+        "old"
+      ],
+      "ner_tags": [
+        9,
+        13,
+        14,
+        14,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "kids",
+        "robots",
+        "for",
+        "boys"
+      ],
+      "ner_tags": [
+        13,
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "kickback",
+        "rocker"
+      ],
+      "ner_tags": [
+        25,
+        26
+      ]
+    },
+    {
+      "tokens": [
+        "shaving",
+        "fluid"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "kids",
+        "cattle",
+        "toys"
+      ],
+      "ner_tags": [
+        13,
+        31,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "natural",
+        "braided",
+        "hairstyles",
+        "without",
+        "weave",
+        "for",
+        "black",
+        "women"
+      ],
+      "ner_tags": [
+        17,
+        17,
+        9,
+        17,
+        18,
+        13,
+        14,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "butterscotch",
+        "beanie",
+        "boos"
+      ],
+      "ner_tags": [
+        25,
+        25,
+        26
+      ]
+    },
+    {
+      "tokens": [
+        "outdoor",
+        "terrace",
+        "styles"
+      ],
+      "ner_tags": [
+        17,
+        0,
+        0
+      ]
+    },
+    {
+      "tokens": [
+        "atlas",
+        "hammock",
+        "straps"
+      ],
+      "ner_tags": [
+        25,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "family",
+        "tree",
+        "wood",
+        "sign"
+      ],
+      "ner_tags": [
+        13,
+        9,
+        15,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "loldoll",
+        "case"
+      ],
+      "ner_tags": [
+        11,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "boat",
+        "spotlight",
+        "marine"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        17
+      ]
+    },
+    {
+      "tokens": [
+        "38",
+        "ddd",
+        "push",
+        "up",
+        "bras",
+        "for",
+        "women"
+      ],
+      "ner_tags": [
+        1,
+        2,
+        9,
+        10,
+        10,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "english",
+        "breakfast",
+        "tea"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "folding",
+        "screen"
+      ],
+      "ner_tags": [
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "women",
+        "workout",
+        "pants"
+      ],
+      "ner_tags": [
+        13,
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "christmas",
+        "lights"
+      ],
+      "ner_tags": [
+        19,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "kd",
+        "frames"
+      ],
+      "ner_tags": [
+        11,
+        12
+      ]
+    },
+    {
+      "tokens": [
+        "nrg",
+        "innovations",
+        "steering",
+        "wheel"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "pg",
+        "tips"
+      ],
+      "ner_tags": [
+        11,
+        12
+      ]
+    },
+    {
+      "tokens": [
+        "badflower",
+        "sweatshirt"
+      ],
+      "ner_tags": [
+        7,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "men's",
+        "statue",
+        "of",
+        "liberty",
+        "bi-fold",
+        "money",
+        "wallet"
+      ],
+      "ner_tags": [
+        13,
+        7,
+        8,
+        8,
+        31,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "sports",
+        "bra"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "columbia",
+        "rain",
+        "jacket",
+        "women"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        10,
+        13
+      ]
+    },
+    {
+      "tokens": [
+        "womens",
+        "underwear",
+        "wedding"
+      ],
+      "ner_tags": [
+        13,
+        9,
+        19
+      ]
+    },
+    {
+      "tokens": [
+        "angel's",
+        "in",
+        "the",
+        "er"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "lg",
+        "24mp60vq"
+      ],
+      "ner_tags": [
+        11,
+        25
+      ]
+    },
+    {
+      "tokens": [
+        "bag",
+        "of",
+        "holding"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "black",
+        "and",
+        "white",
+        "striped",
+        "shirt",
+        "kids",
+        "girl"
+      ],
+      "ner_tags": [
+        3,
+        0,
+        3,
+        3,
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "audible",
+        "books"
+      ],
+      "ner_tags": [
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "ergonomic",
+        "office",
+        "chair",
+        "without",
+        "wheels"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10,
+        5,
+        6
+      ]
+    },
+    {
+      "tokens": [
+        "backpack",
+        "for",
+        "men",
+        "training"
+      ],
+      "ner_tags": [
+        9,
+        13,
+        14,
+        19
+      ]
+    },
+    {
+      "tokens": [
+        "electric",
+        "blanket",
+        "full",
+        "size"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        1,
+        2
+      ]
+    },
+    {
+      "tokens": [
+        "black",
+        "and",
+        "decker",
+        "edge",
+        "hog",
+        "replacement",
+        "blade"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        12,
+        9,
+        10,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "angel",
+        "wings"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "mouse",
+        "pad",
+        "hamsa"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "tokens": [
+        "stafford",
+        "pjs",
+        "for",
+        "men"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "farmhouse",
+        "chairs",
+        "set",
+        "of",
+        "4"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        29,
+        30,
+        30
+      ]
+    },
+    {
+      "tokens": [
+        "flash",
+        "drive",
+        "16gb"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        1
+      ]
+    },
+    {
+      "tokens": [
+        "teen",
+        "girl",
+        "shirts"
+      ],
+      "ner_tags": [
+        13,
+        14,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "poster",
+        "board",
+        "black",
+        "foam"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        3,
+        15
+      ]
+    },
+    {
+      "tokens": [
+        "singer",
+        "sewing",
+        "machine"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "1-light",
+        "fan",
+        "kit",
+        "without",
+        "ceiling",
+        "fan"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        10,
+        5,
+        6,
+        6
+      ]
+    },
+    {
+      "tokens": [
+        "binding",
+        "coils"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "100%",
+        "whey",
+        "isolate",
+        "protein",
+        "without",
+        "artifitial",
+        "sweetener"
+      ],
+      "ner_tags": [
+        25,
+        26,
+        9,
+        10,
+        17,
+        18,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "toddler",
+        "knee",
+        "high",
+        "socks",
+        "white"
+      ],
+      "ner_tags": [
+        13,
+        31,
+        32,
+        9,
+        3
+      ]
+    },
+    {
+      "tokens": [
+        "soccer",
+        "socks"
+      ],
+      "ner_tags": [
+        19,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "mobile",
+        "home",
+        "skirting"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "gaming",
+        "setup"
+      ],
+      "ner_tags": [
+        0,
+        0
+      ]
+    },
+    {
+      "tokens": [
+        "womens",
+        "reef",
+        "sandals"
+      ],
+      "ner_tags": [
+        13,
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "cool",
+        "room",
+        "without",
+        "ac"
+      ],
+      "ner_tags": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "tokens": [
+        "yungblud",
+        "shirt"
+      ],
+      "ner_tags": [
+        7,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "printer",
+        "paper",
+        "8.5x11"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        1
+      ]
+    },
+    {
+      "tokens": [
+        "deadliest",
+        "catch",
+        "season",
+        "5"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "aladdin",
+        "loxon",
+        "mantle"
+      ],
+      "ner_tags": [
+        11,
+        25,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "meme",
+        "gifts",
+        "grandma"
+      ],
+      "ner_tags": [
+        13,
+        9,
+        13
+      ]
+    },
+    {
+      "tokens": [
+        "fanny",
+        "packs",
+        "for",
+        "women"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "victoria",
+        "secret",
+        "bombshell",
+        "paradise",
+        "perfume"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        25,
+        26,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "power",
+        "water",
+        "hose",
+        "nozzle"
+      ],
+      "ner_tags": [
+        17,
+        18,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "tito",
+        "gomez"
+      ],
+      "ner_tags": [
+        11,
+        12
+      ]
+    },
+    {
+      "tokens": [
+        "digital",
+        "thermostat"
+      ],
+      "ner_tags": [
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "flower",
+        "nail",
+        "head"
+      ],
+      "ner_tags": [
+        31,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "mens",
+        "cargo",
+        "pants"
+      ],
+      "ner_tags": [
+        13,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "morgan",
+        "wallen"
+      ],
+      "ner_tags": [
+        11,
+        12
+      ]
+    },
+    {
+      "tokens": [
+        "lego",
+        "speed",
+        "champions"
+      ],
+      "ner_tags": [
+        11,
+        25,
+        26
+      ]
+    },
+    {
+      "tokens": [
+        "white",
+        "balusters"
+      ],
+      "ner_tags": [
+        3,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "warhammer",
+        "40k",
+        "kill",
+        "team"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "ac",
+        "dc",
+        "jacket"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "women's",
+        "bags"
+      ],
+      "ner_tags": [
+        13,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "nomad",
+        "guitar",
+        "tools"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "football",
+        "gear",
+        "for",
+        "men"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "11/4",
+        "leather",
+        "belt",
+        "without",
+        "buckle"
+      ],
+      "ner_tags": [
+        1,
+        15,
+        9,
+        5,
+        6
+      ]
+    },
+    {
+      "tokens": [
+        "steep",
+        "ps4",
+        "game"
+      ],
+      "ner_tags": [
+        7,
+        25,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "dish",
+        "towel",
+        "beige"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        3
+      ]
+    },
+    {
+      "tokens": [
+        "ipad",
+        "mini",
+        "5",
+        "refurbished"
+      ],
+      "ner_tags": [
+        25,
+        26,
+        26,
+        5
+      ]
+    },
+    {
+      "tokens": [
+        "i",
+        "tunes",
+        "email",
+        "gift",
+        "card"
+      ],
+      "ner_tags": [
+        17,
+        18,
+        18,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "high",
+        "waisted",
+        "leggings"
+      ],
+      "ner_tags": [
+        31,
+        32,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "mens",
+        "soap"
+      ],
+      "ner_tags": [
+        13,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "g",
+        "shock",
+        "protection"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        17
+      ]
+    },
+    {
+      "tokens": [
+        "towel",
+        "headband",
+        "for",
+        "washing",
+        "face"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        17,
+        18,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "32",
+        "qled"
+      ],
+      "ner_tags": [
+        1,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "japanese",
+        "swords"
+      ],
+      "ner_tags": [
+        21,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "ben",
+        "nye",
+        "powder"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "lg",
+        "6",
+        "lg",
+        "6",
+        "cell",
+        "phone"
+      ],
+      "ner_tags": [
+        11,
+        25,
+        11,
+        25,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "samsung",
+        "galaxy",
+        "note",
+        "7",
+        "unlocked",
+        "phone"
+      ],
+      "ner_tags": [
+        11,
+        25,
+        26,
+        26,
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "1.5",
+        "cu",
+        "ft",
+        "mini",
+        "fridge",
+        "without",
+        "freezer"
+      ],
+      "ner_tags": [
+        1,
+        2,
+        2,
+        31,
+        9,
+        5,
+        6
+      ]
+    },
+    {
+      "tokens": [
+        "golf",
+        "balls",
+        "used"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        17
+      ]
+    },
+    {
+      "tokens": [
+        "ironck",
+        "bookshelf"
+      ],
+      "ner_tags": [
+        11,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "kids",
+        "toys",
+        "age",
+        "4"
+      ],
+      "ner_tags": [
+        13,
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "mattress",
+        "topper",
+        "twin",
+        "xl",
+        "firm"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        1,
+        2,
+        17
+      ]
+    },
+    {
+      "tokens": [
+        "chef",
+        "boy",
+        "ar",
+        "dee",
+        "pizza",
+        "mix"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        12,
+        12,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "sticker",
+        "maker",
+        "machine"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "coast",
+        "headlamp"
+      ],
+      "ner_tags": [
+        11,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "nerf",
+        "blaster"
+      ],
+      "ner_tags": [
+        11,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "tn760",
+        "toner",
+        "for",
+        "brother",
+        "printer"
+      ],
+      "ner_tags": [
+        25,
+        9,
+        17,
+        18,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "nose",
+        "ring",
+        "pack"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "i",
+        "know",
+        "what",
+        "you",
+        "did",
+        "last",
+        "summer",
+        "book"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "chicken",
+        "fajita",
+        "seasoning"
+      ],
+      "ner_tags": [
+        17,
+        18,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "cloth",
+        "wipes",
+        "container",
+        "airtight"
+      ],
+      "ner_tags": [
+        17,
+        18,
+        9,
+        17
+      ]
+    },
+    {
+      "tokens": [
+        "newborn",
+        "wash",
+        "cloths"
+      ],
+      "ner_tags": [
+        13,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "joystick",
+        "extender",
+        "ps4"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        25
+      ]
+    },
+    {
+      "tokens": [
+        "magnetic",
+        "travel",
+        "games"
+      ],
+      "ner_tags": [
+        17,
+        19,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "garmin",
+        "striker",
+        "7sv",
+        "with",
+        "transducer"
+      ],
+      "ner_tags": [
+        11,
+        25,
+        26,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "mountain",
+        "hardware",
+        "sleeping",
+        "bags"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "popsocket",
+        "cactus"
+      ],
+      "ner_tags": [
+        9,
+        7
+      ]
+    },
+    {
+      "tokens": [
+        "cora",
+        "pads"
+      ],
+      "ner_tags": [
+        11,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "it",
+        "cosmetics",
+        "cc",
+        "cream"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "smart",
+        "cakes"
+      ],
+      "ner_tags": [
+        25,
+        26
+      ]
+    },
+    {
+      "tokens": [
+        "suzuki",
+        "intruder",
+        "sticker"
+      ],
+      "ner_tags": [
+        11,
+        25,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "15",
+        "cube",
+        "storage",
+        "organizer"
+      ],
+      "ner_tags": [
+        17,
+        18,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "ar",
+        "wrench"
+      ],
+      "ner_tags": [
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "adult",
+        "olaf",
+        "costume"
+      ],
+      "ner_tags": [
+        13,
+        7,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "fiction",
+        "without",
+        "frontiers"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "wood",
+        "dough",
+        "bowl"
+      ],
+      "ner_tags": [
+        15,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "womens",
+        "girdles",
+        "shapewear"
+      ],
+      "ner_tags": [
+        13,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "womens",
+        "saints",
+        "apparel"
+      ],
+      "ner_tags": [
+        13,
+        7,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "bang",
+        "variety",
+        "pack"
+      ],
+      "ner_tags": [
+        11,
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "the",
+        "world",
+        "that",
+        "made",
+        "new",
+        "orleans"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "hobie",
+        "livewell",
+        "v2"
+      ],
+      "ner_tags": [
+        11,
+        25,
+        26
+      ]
+    },
+    {
+      "tokens": [
+        "cornbread",
+        "flavoring"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "infant",
+        "boys",
+        "baseball",
+        "tee"
+      ],
+      "ner_tags": [
+        13,
+        14,
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "1",
+        "0",
+        "gauge",
+        "reducer"
+      ],
+      "ner_tags": [
+        1,
+        2,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "multitool",
+        "without",
+        "knife"
+      ],
+      "ner_tags": [
+        9,
+        5,
+        7
+      ]
+    },
+    {
+      "tokens": [
+        "razer",
+        "blade",
+        "15"
+      ],
+      "ner_tags": [
+        11,
+        25,
+        26
+      ]
+    },
+    {
+      "tokens": [
+        "water",
+        "table",
+        "for",
+        "toddlers",
+        "1-3"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        13,
+        14,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "00",
+        "gauge",
+        "funny",
+        "christmas"
+      ],
+      "ner_tags": [
+        1,
+        9,
+        17,
+        19
+      ]
+    },
+    {
+      "tokens": [
+        "neck",
+        "brace"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "trump",
+        "straws",
+        "-",
+        "pack",
+        "of",
+        "10"
+      ],
+      "ner_tags": [
+        7,
+        9,
+        0,
+        29,
+        30,
+        30
+      ]
+    },
+    {
+      "tokens": [
+        "lipo",
+        "foam"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "white",
+        "mylar",
+        "bags"
+      ],
+      "ner_tags": [
+        3,
+        15,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "funko",
+        "pop",
+        "80's"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        33
+      ]
+    },
+    {
+      "tokens": [
+        "lg",
+        "xpression",
+        "c395",
+        "case"
+      ],
+      "ner_tags": [
+        11,
+        17,
+        18,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "burrata",
+        "cheese"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "the",
+        "neighbourhood"
+      ],
+      "ner_tags": [
+        11,
+        12
+      ]
+    },
+    {
+      "tokens": [
+        "air",
+        "fryer",
+        "cookbook",
+        "healthy"
+      ],
+      "ner_tags": [
+        17,
+        18,
+        9,
+        17
+      ]
+    },
+    {
+      "tokens": [
+        "microwave",
+        "oven"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "apc",
+        "be350g",
+        "ups"
+      ],
+      "ner_tags": [
+        9,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "popcorn",
+        "popper"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "a",
+        "me",
+        "without",
+        "we"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "piano",
+        "tie"
+      ],
+      "ner_tags": [
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "1",
+        "5/8",
+        "pop",
+        "up",
+        "drain",
+        "without",
+        "overflow"
+      ],
+      "ner_tags": [
+        1,
+        2,
+        9,
+        10,
+        10,
+        5,
+        6
+      ]
+    },
+    {
+      "tokens": [
+        "15-inch",
+        "macbook",
+        "pro"
+      ],
+      "ner_tags": [
+        1,
+        25,
+        26
+      ]
+    },
+    {
+      "tokens": [
+        "homecoming",
+        "dresses",
+        "short",
+        "tight",
+        "sparkles"
+      ],
+      "ner_tags": [
+        19,
+        9,
+        31,
+        32,
+        17
+      ]
+    },
+    {
+      "tokens": [
+        "feel",
+        "real",
+        "christmas",
+        "garland"
+      ],
+      "ner_tags": [
+        17,
+        18,
+        19,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "gas",
+        "burners",
+        "for",
+        "cooking",
+        "outdoor"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        17,
+        18,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "desk",
+        "organizer"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "teal",
+        "tutu",
+        "girls"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        13
+      ]
+    },
+    {
+      "tokens": [
+        "dell",
+        "ultrasharp",
+        "premium",
+        "32"
+      ],
+      "ner_tags": [
+        11,
+        25,
+        26,
+        1
+      ]
+    },
+    {
+      "tokens": [
+        "1ft",
+        "n-male",
+        "to",
+        "n-male",
+        "lmr400"
+      ],
+      "ner_tags": [
+        1,
+        17,
+        18,
+        18,
+        25
+      ]
+    },
+    {
+      "tokens": [
+        "womens",
+        "black",
+        "skirts",
+        "above",
+        "the",
+        "knee"
+      ],
+      "ner_tags": [
+        13,
+        3,
+        9,
+        31,
+        32,
+        32
+      ]
+    },
+    {
+      "tokens": [
+        "houndstooth",
+        "bandana"
+      ],
+      "ner_tags": [
+        3,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "vintage",
+        "outfits",
+        "for",
+        "women"
+      ],
+      "ner_tags": [
+        5,
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "backwash",
+        "connector"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "smallest",
+        "dot",
+        "approved",
+        "motorcycle",
+        "helmet"
+      ],
+      "ner_tags": [
+        1,
+        17,
+        18,
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "moleskine",
+        "dot",
+        "soft",
+        "large"
+      ],
+      "ner_tags": [
+        11,
+        25,
+        26,
+        1
+      ]
+    },
+    {
+      "tokens": [
+        "wall",
+        "hanging"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "cameras",
+        "for",
+        "home",
+        "security"
+      ],
+      "ner_tags": [
+        9,
+        17,
+        18,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "simon",
+        "and",
+        "schuster",
+        "workbook",
+        "for",
+        "writers"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        12,
+        7,
+        8,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "prelit",
+        "christmas",
+        "tree",
+        "skinny"
+      ],
+      "ner_tags": [
+        0,
+        9,
+        10,
+        31
+      ]
+    },
+    {
+      "tokens": [
+        "bycicles",
+        "pump"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "sit",
+        "stand",
+        "desk"
+      ],
+      "ner_tags": [
+        17,
+        18,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "timeless",
+        "roll",
+        "on"
+      ],
+      "ner_tags": [
+        25,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "governance",
+        "in",
+        "sport",
+        ":",
+        "analydis",
+        "and",
+        "application"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "metal",
+        "bed",
+        "frames"
+      ],
+      "ner_tags": [
+        15,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "garbage",
+        "disposal",
+        "install"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        17
+      ]
+    },
+    {
+      "tokens": [
+        "commercial",
+        "refrigerator",
+        "food",
+        "truck"
+      ],
+      "ner_tags": [
+        0,
+        9,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "phone",
+        "case",
+        "iphone",
+        "x"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        25,
+        26
+      ]
+    },
+    {
+      "tokens": [
+        "sew",
+        "barbie",
+        "clothes"
+      ],
+      "ner_tags": [
+        0,
+        7,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "native",
+        "deodorant",
+        "for",
+        "women"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "shirt",
+        "dresses",
+        "for",
+        "women",
+        "plus",
+        "size"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        13,
+        14,
+        1,
+        2
+      ]
+    },
+    {
+      "tokens": [
+        "boys",
+        "rollerblades",
+        "size",
+        "5-8"
+      ],
+      "ner_tags": [
+        13,
+        9,
+        1,
+        2
+      ]
+    },
+    {
+      "tokens": [
+        "hayward",
+        "seal",
+        "assembly",
+        "kit"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "huggies",
+        "overnight",
+        "size",
+        "6"
+      ],
+      "ner_tags": [
+        11,
+        17,
+        1,
+        2
+      ]
+    },
+    {
+      "tokens": [
+        "papermate",
+        "flair",
+        "pens"
+      ],
+      "ner_tags": [
+        11,
+        25,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "lg",
+        "v50",
+        "screen",
+        "protectortempered",
+        "glass"
+      ],
+      "ner_tags": [
+        11,
+        17,
+        9,
+        10,
+        15
+      ]
+    },
+    {
+      "tokens": [
+        "soleus",
+        "air",
+        "conditioner"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "plus",
+        "body",
+        "chains",
+        "for",
+        "women",
+        "sexy"
+      ],
+      "ner_tags": [
+        31,
+        9,
+        10,
+        13,
+        14,
+        17
+      ]
+    },
+    {
+      "tokens": [
+        "wall",
+        "space",
+        "heater"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "power",
+        "wheels"
+      ],
+      "ner_tags": [
+        25,
+        26
+      ]
+    },
+    {
+      "tokens": [
+        "cute",
+        "halloween",
+        "costume",
+        "women"
+      ],
+      "ner_tags": [
+        17,
+        19,
+        9,
+        13
+      ]
+    },
+    {
+      "tokens": [
+        "chef's",
+        "choice",
+        "slicer"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "photo",
+        "paper",
+        "for",
+        "cannon",
+        "printer"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        17,
+        18,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "ok",
+        "to",
+        "wake",
+        "clock"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        12,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "70s",
+        "pants"
+      ],
+      "ner_tags": [
+        33,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "psycho",
+        "pass",
+        "sinners",
+        "of",
+        "the",
+        "system"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "bunny",
+        "timer"
+      ],
+      "ner_tags": [
+        31,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "the",
+        "phantom",
+        "of",
+        "the",
+        "opera",
+        "costume"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        8,
+        8,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "fruits",
+        "basket",
+        "poster"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "light",
+        "blue",
+        "balloons"
+      ],
+      "ner_tags": [
+        9,
+        3,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "paris",
+        "towels",
+        "kitchen"
+      ],
+      "ner_tags": [
+        7,
+        9,
+        17
+      ]
+    },
+    {
+      "tokens": [
+        "acrylic",
+        "hanging",
+        "crystal",
+        "beads"
+      ],
+      "ner_tags": [
+        15,
+        17,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "guess",
+        "slim",
+        "fit",
+        "shirts",
+        "for",
+        "men"
+      ],
+      "ner_tags": [
+        11,
+        31,
+        32,
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "protection",
+        "from",
+        "dist"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "womens",
+        "pantyhose"
+      ],
+      "ner_tags": [
+        13,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "will",
+        "you",
+        "be",
+        "my",
+        "bridesmaid",
+        "sticker"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        8,
+        8,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "pathways",
+        "reading",
+        "writing",
+        "and",
+        "critical",
+        "thinking",
+        "1"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "lenovo",
+        "ideapad",
+        "2in1"
+      ],
+      "ner_tags": [
+        11,
+        25,
+        17
+      ]
+    },
+    {
+      "tokens": [
+        "vizio",
+        "50",
+        "inch",
+        "smart",
+        "tv"
+      ],
+      "ner_tags": [
+        11,
+        1,
+        2,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "tecnomarine",
+        "watch",
+        "for",
+        "men"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "colored",
+        "pill",
+        "bags",
+        "for",
+        "medicine",
+        "small"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        10,
+        17,
+        18,
+        1
+      ]
+    },
+    {
+      "tokens": [
+        "bulk",
+        "bubble",
+        "mailers"
+      ],
+      "ner_tags": [
+        29,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "all",
+        "the",
+        "lovely",
+        "bones"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "silver",
+        "barrets"
+      ],
+      "ner_tags": [
+        3,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "it",
+        "chapter",
+        "2",
+        "blu",
+        "ray"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "bing",
+        "crosby",
+        "white",
+        "christmas",
+        "vinyl"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "camping",
+        "stool"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "doxology",
+        "a",
+        "novel",
+        "by",
+        "nell",
+        "zink"
+      ],
+      "ner_tags": [
+        7,
+        0,
+        9,
+        0,
+        11,
+        12
+      ]
+    },
+    {
+      "tokens": [
+        "dresser",
+        "drawer",
+        "organizer"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "garden",
+        "decor",
+        "party"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        19
+      ]
+    },
+    {
+      "tokens": [
+        "co2",
+        "laser",
+        "cutter"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "billy",
+        "goat",
+        "aerator",
+        "tines"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "folding",
+        "wall",
+        "bike",
+        "rack"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "sony",
+        "mirrorless",
+        "camera",
+        "lens"
+      ],
+      "ner_tags": [
+        17,
+        18,
+        18,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "casio",
+        "watch",
+        "gold"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        15
+      ]
+    },
+    {
+      "tokens": [
+        "best",
+        "surge",
+        "protector",
+        "for",
+        "tv"
+      ],
+      "ner_tags": [
+        0,
+        9,
+        10,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "the",
+        "big",
+        "one®",
+        "gel",
+        "memory",
+        "foam",
+        "side",
+        "sleeper",
+        "pillow"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        12,
+        15,
+        16,
+        16,
+        17,
+        18,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "vivarium",
+        "tank"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "leather",
+        "belt",
+        "blank"
+      ],
+      "ner_tags": [
+        15,
+        9,
+        3
+      ]
+    },
+    {
+      "tokens": [
+        "one",
+        "wish"
+      ],
+      "ner_tags": [
+        7,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "rode",
+        "wireless",
+        "go"
+      ],
+      "ner_tags": [
+        11,
+        25,
+        26
+      ]
+    },
+    {
+      "tokens": [
+        "amd",
+        "ryzen",
+        "heatsink"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        25
+      ]
+    },
+    {
+      "tokens": [
+        "grateful",
+        "dead",
+        "hats"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "the",
+        "world",
+        "without",
+        "you"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "3",
+        "quart",
+        "instant",
+        "pot",
+        "accessories"
+      ],
+      "ner_tags": [
+        1,
+        2,
+        17,
+        18,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "wonder",
+        "woman",
+        "water",
+        "bottles"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "las",
+        "palmas",
+        "red",
+        "chili",
+        "sauce"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        17,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "vga",
+        "to",
+        "hdmi",
+        "adapter"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "lavender",
+        "headband"
+      ],
+      "ner_tags": [
+        0,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "bluetooth",
+        "reciever",
+        "and",
+        "mic"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        0,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "bathbombs",
+        "with",
+        "toys",
+        "inside"
+      ],
+      "ner_tags": [
+        9,
+        17,
+        18,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "christmas",
+        "candel"
+      ],
+      "ner_tags": [
+        19,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "calculus",
+        "early",
+        "transcendentals",
+        "11th",
+        "edition"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "universal",
+        "cross",
+        "bars",
+        "for",
+        "roof",
+        "rack",
+        "without",
+        "rails"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        10,
+        17,
+        18,
+        18,
+        31,
+        32
+      ]
+    },
+    {
+      "tokens": [
+        "light",
+        "saber"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "200cc",
+        "motor"
+      ],
+      "ner_tags": [
+        1,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "electric",
+        "water",
+        "siphon",
+        "pump"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "kitchen",
+        "aluminum",
+        "foil",
+        "organizer"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "tables",
+        "for",
+        "toddlers",
+        "with",
+        "chairs"
+      ],
+      "ner_tags": [
+        9,
+        13,
+        14,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "shadows",
+        "in",
+        "the",
+        "forest"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "einsteins",
+        "dreams",
+        "by",
+        "alan",
+        "lightman"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        0,
+        11,
+        12
+      ]
+    },
+    {
+      "tokens": [
+        "girl",
+        "without",
+        "a",
+        "country"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "outdoor",
+        "wooden",
+        "rustic",
+        "planter"
+      ],
+      "ner_tags": [
+        17,
+        15,
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "iceland",
+        "sagas"
+      ],
+      "ner_tags": [
+        7,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "valentine's",
+        "day"
+      ],
+      "ner_tags": [
+        19,
+        20
+      ]
+    },
+    {
+      "tokens": [
+        "street",
+        "blaster",
+        "boom",
+        "box"
+      ],
+      "ner_tags": [
+        25,
+        26,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "fuji",
+        "white",
+        "paint"
+      ],
+      "ner_tags": [
+        11,
+        3,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "best",
+        "air",
+        "fryer",
+        "easy",
+        "cleanup"
+      ],
+      "ner_tags": [
+        0,
+        9,
+        10,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "pentagon",
+        "albums"
+      ],
+      "ner_tags": [
+        11,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "heavy",
+        "work",
+        "jacket"
+      ],
+      "ner_tags": [
+        17,
+        18,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "huggies",
+        "diapers",
+        "overnight",
+        "size",
+        "4"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        17,
+        1,
+        2
+      ]
+    },
+    {
+      "tokens": [
+        "hot",
+        "cold",
+        "wrap",
+        "for",
+        "knee"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "metal",
+        "console",
+        "table"
+      ],
+      "ner_tags": [
+        15,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "keychain",
+        "ends"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "sheer",
+        "catsuit",
+        "front",
+        "zipper"
+      ],
+      "ner_tags": [
+        15,
+        9,
+        31,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "dhea",
+        "100mg"
+      ],
+      "ner_tags": [
+        9,
+        1
+      ]
+    },
+    {
+      "tokens": [
+        "pink",
+        "2xl",
+        "safety",
+        "vest"
+      ],
+      "ner_tags": [
+        3,
+        1,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "swivel",
+        "bar",
+        "stool"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "empty",
+        "roller",
+        "bottles"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "wappen",
+        "patch"
+      ],
+      "ner_tags": [
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "polo",
+        "shoes"
+      ],
+      "ner_tags": [
+        11,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "buffalo",
+        "plaid",
+        "raglan"
+      ],
+      "ner_tags": [
+        3,
+        4,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "pre",
+        "workout",
+        "without",
+        "creatine"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        5,
+        6
+      ]
+    },
+    {
+      "tokens": [
+        "1.5",
+        "quart",
+        "saucepan",
+        "without",
+        "lid"
+      ],
+      "ner_tags": [
+        1,
+        2,
+        9,
+        5,
+        6
+      ]
+    },
+    {
+      "tokens": [
+        "beautifully",
+        "profitable"
+      ],
+      "ner_tags": [
+        7,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "peter",
+        "wolf",
+        "lights",
+        "out"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        7,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "kindred",
+        "series"
+      ],
+      "ner_tags": [
+        7,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "mens",
+        "graphic",
+        "t",
+        "shirts"
+      ],
+      "ner_tags": [
+        13,
+        17,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "cute",
+        "pajamas",
+        "for",
+        "girls"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "macmillan",
+        "collectors",
+        "library"
+      ],
+      "ner_tags": [
+        11,
+        7,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "kitchenaid",
+        "c"
+      ],
+      "ner_tags": [
+        11,
+        25
+      ]
+    },
+    {
+      "tokens": [
+        "melissa",
+        "and",
+        "doug",
+        "tattoos"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        12,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "box",
+        "tools"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "80",
+        "headbands",
+        "for",
+        "women"
+      ],
+      "ner_tags": [
+        33,
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "merlin",
+        "poster"
+      ],
+      "ner_tags": [
+        7,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "maybelline",
+        "foundation"
+      ],
+      "ner_tags": [
+        11,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "lego",
+        "big",
+        "wheels"
+      ],
+      "ner_tags": [
+        11,
+        25,
+        26
+      ]
+    },
+    {
+      "tokens": [
+        "hurricane",
+        "stem",
+        "candle",
+        "holder"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "the",
+        "purge",
+        "mask",
+        "led"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        9,
+        17
+      ]
+    },
+    {
+      "tokens": [
+        "bret",
+        "contreras"
+      ],
+      "ner_tags": [
+        7,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "kobalt",
+        "leaf",
+        "blower"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "sega",
+        "genesis",
+        "ultimate",
+        "handheld"
+      ],
+      "ner_tags": [
+        11,
+        25,
+        26,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "charge",
+        "2",
+        "charger"
+      ],
+      "ner_tags": [
+        17,
+        18,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "wood",
+        "art"
+      ],
+      "ner_tags": [
+        0,
+        0
+      ]
+    },
+    {
+      "tokens": [
+        "girls",
+        "bookshelf"
+      ],
+      "ner_tags": [
+        13,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "lights",
+        "battery",
+        "operated"
+      ],
+      "ner_tags": [
+        9,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "square",
+        "recessed",
+        "lighting"
+      ],
+      "ner_tags": [
+        31,
+        31,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "pickup",
+        "coil"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "pillow",
+        "covers",
+        "18x18",
+        "bedroom"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        1,
+        17
+      ]
+    },
+    {
+      "tokens": [
+        "shiny",
+        "printer",
+        "s-844"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        25
+      ]
+    },
+    {
+      "tokens": [
+        "fishing",
+        "gear"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "zoodle",
+        "maker"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "activewear",
+        "tops",
+        "for",
+        "women",
+        "purple"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        13,
+        14,
+        3
+      ]
+    },
+    {
+      "tokens": [
+        "outdoor",
+        "thermometer"
+      ],
+      "ner_tags": [
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "ralph",
+        "lauren",
+        "sheets",
+        "full",
+        "size"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        9,
+        1,
+        2
+      ]
+    },
+    {
+      "tokens": [
+        "no",
+        "weapons",
+        "allowed",
+        "sign"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "hoover",
+        "carpet",
+        "cleaner",
+        "solution"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "key",
+        "0.8mm"
+      ],
+      "ner_tags": [
+        9,
+        1
+      ]
+    },
+    {
+      "tokens": [
+        "omg",
+        "lol",
+        "dolls"
+      ],
+      "ner_tags": [
+        25,
+        11,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "breastfeeding",
+        "stool"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "push",
+        "lights",
+        "battery",
+        "operated",
+        "stick",
+        "on"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        17,
+        18,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "camping",
+        "tanks",
+        "for",
+        "women"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "shure",
+        "lavalier",
+        "microphone"
+      ],
+      "ner_tags": [
+        11,
+        25,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "unscented",
+        "sunscreen",
+        "spray"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "windex",
+        "glass",
+        "cleaner"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "brake",
+        "caliper",
+        "decal"
+      ],
+      "ner_tags": [
+        17,
+        18,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "kid",
+        "chapter",
+        "books",
+        "on",
+        "cd"
+      ],
+      "ner_tags": [
+        13,
+        9,
+        10,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "antivenom",
+        "marvel"
+      ],
+      "ner_tags": [
+        7,
+        11
+      ]
+    },
+    {
+      "tokens": [
+        "grateful",
+        "journal"
+      ],
+      "ner_tags": [
+        7,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "medium",
+        "tall",
+        "hi",
+        "viz"
+      ],
+      "ner_tags": [
+        31,
+        31,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "tory",
+        "burch",
+        "slippers",
+        "for",
+        "women",
+        "clearance"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        9,
+        13,
+        14,
+        23
+      ]
+    },
+    {
+      "tokens": [
+        "50",
+        "ways",
+        "to",
+        "soothe",
+        "yourself",
+        "without",
+        "food"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "basketball",
+        "funiture"
+      ],
+      "ner_tags": [
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "round",
+        "wood",
+        "and",
+        "metal",
+        "pub",
+        "table"
+      ],
+      "ner_tags": [
+        31,
+        15,
+        16,
+        16,
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "metal",
+        "stamping",
+        "blanks",
+        "copper"
+      ],
+      "ner_tags": [
+        15,
+        9,
+        10,
+        15
+      ]
+    },
+    {
+      "tokens": [
+        "jla",
+        "home",
+        "vancouver",
+        "coverlet"
+      ],
+      "ner_tags": [
+        0,
+        0,
+        0,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "avengers",
+        "toys",
+        "endgame",
+        "titan"
+      ],
+      "ner_tags": [
+        7,
+        9,
+        7,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "samsung",
+        "galaxy",
+        "s10",
+        "case",
+        "with",
+        "built",
+        "in",
+        "screen",
+        "protector"
+      ],
+      "ner_tags": [
+        11,
+        25,
+        26,
+        9,
+        17,
+        18,
+        18,
+        18,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "tablets",
+        "to",
+        "calm",
+        "nerves",
+        "and",
+        "promote",
+        "sleep"
+      ],
+      "ner_tags": [
+        9,
+        17,
+        18,
+        18,
+        18,
+        18,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "coral",
+        "color",
+        "outdoor",
+        "throw",
+        "pillows"
+      ],
+      "ner_tags": [
+        3,
+        0,
+        17,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "shimmer",
+        "dismond",
+        "disco"
+      ],
+      "ner_tags": [
+        9,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "lebron",
+        "jamesshoes"
+      ],
+      "ner_tags": [
+        7,
+        0
+      ]
+    },
+    {
+      "tokens": [
+        "full",
+        "size",
+        "zippered",
+        "mattress",
+        "protector"
+      ],
+      "ner_tags": [
+        1,
+        2,
+        9,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "prime",
+        "deal",
+        "bidet",
+        "self",
+        "cleaning"
+      ],
+      "ner_tags": [
+        0,
+        0,
+        9,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "trunk",
+        "bike",
+        "rack",
+        "4"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10,
+        17
+      ]
+    },
+    {
+      "tokens": [
+        "iphone",
+        "11",
+        "pro",
+        "max",
+        "screen",
+        "protector"
+      ],
+      "ner_tags": [
+        25,
+        26,
+        26,
+        26,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "womens",
+        "scrub",
+        "jacket"
+      ],
+      "ner_tags": [
+        13,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "pendant",
+        "light",
+        "without",
+        "shade"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "atheltic",
+        "shorts"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "50th",
+        "birthday",
+        "gifts",
+        "for",
+        "women"
+      ],
+      "ner_tags": [
+        19,
+        20,
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "abeeno",
+        "body",
+        "wash"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "gaming",
+        "laptop",
+        "bag"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "lunch",
+        "box",
+        "for",
+        "kids"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "mp3",
+        "old",
+        "town",
+        "road"
+      ],
+      "ner_tags": [
+        17,
+        7,
+        8,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "the",
+        "persian",
+        "gamble"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "woman",
+        "sneaker",
+        "shoes"
+      ],
+      "ner_tags": [
+        13,
+        11,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "vegan",
+        "adidas"
+      ],
+      "ner_tags": [
+        25,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "book",
+        "how",
+        "to",
+        "use",
+        "gmail"
+      ],
+      "ner_tags": [
+        9,
+        7,
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "silver",
+        "beads"
+      ],
+      "ner_tags": [
+        3,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "greeting",
+        "card",
+        "80lb",
+        "cover"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        1,
+        17
+      ]
+    },
+    {
+      "tokens": [
+        "spoon",
+        "ring"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "brass",
+        "atomizer",
+        "spray",
+        "bottle"
+      ],
+      "ner_tags": [
+        15,
+        17,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "spike",
+        "lee",
+        "joint",
+        "dvd"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "waffle",
+        "shirts",
+        "for",
+        "men"
+      ],
+      "ner_tags": [
+        7,
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "flash",
+        "glasses"
+      ],
+      "ner_tags": [
+        7,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "purple",
+        "blue",
+        "lamp"
+      ],
+      "ner_tags": [
+        3,
+        3,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "natrapel",
+        "wipes"
+      ],
+      "ner_tags": [
+        11,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "cute",
+        "page",
+        "clips"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "womens",
+        "fitted",
+        "jean",
+        "jacket"
+      ],
+      "ner_tags": [
+        13,
+        31,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "poop",
+        "beer",
+        "glass"
+      ],
+      "ner_tags": [
+        31,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "toys",
+        "1",
+        "year",
+        "old",
+        "girl"
+      ],
+      "ner_tags": [
+        9,
+        13,
+        14,
+        14,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "sweet",
+        "potato",
+        "pie"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "dear",
+        "girls"
+      ],
+      "ner_tags": [
+        7,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "axolotl",
+        "roadkill"
+      ],
+      "ner_tags": [
+        7,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "tan",
+        "skirts",
+        "for",
+        "women"
+      ],
+      "ner_tags": [
+        3,
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "beer",
+        "barrel"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "dog",
+        "harness",
+        "with",
+        "handle"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "trillion",
+        "cut",
+        "earrings"
+      ],
+      "ner_tags": [
+        31,
+        32,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "gift",
+        "cards",
+        "for",
+        "birthday"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        19,
+        20
+      ]
+    },
+    {
+      "tokens": [
+        "pajama",
+        "shorts"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "swimsuit",
+        "cover",
+        "ups",
+        "for",
+        "women"
+      ],
+      "ner_tags": [
+        9,
+        17,
+        18,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "full",
+        "body",
+        "pillow",
+        "for",
+        "pregnant",
+        "women"
+      ],
+      "ner_tags": [
+        17,
+        18,
+        9,
+        13,
+        14,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "prettycare",
+        "eye",
+        "dropper",
+        "white",
+        "bottle"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        10,
+        3,
+        31
+      ]
+    },
+    {
+      "tokens": [
+        "fish",
+        "tank",
+        "clean"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        0
+      ]
+    },
+    {
+      "tokens": [
+        "sponge",
+        "holder"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "ab",
+        "muscle",
+        "stimulator",
+        "rechargeble"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10,
+        17
+      ]
+    },
+    {
+      "tokens": [
+        "monday",
+        "leadership:",
+        "8"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "maca",
+        "supplement"
+      ],
+      "ner_tags": [
+        15,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "4k",
+        "projectors"
+      ],
+      "ner_tags": [
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "monk",
+        "strap"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "bastiens",
+        "invitation",
+        "to",
+        "music",
+        "b"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "off",
+        "chips",
+        "craps"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "care",
+        "bear",
+        "edible"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        17
+      ]
+    },
+    {
+      "tokens": [
+        "i",
+        "can",
+        "read",
+        "music",
+        "violin",
+        "vol",
+        "2"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "elementary",
+        "homeschool",
+        "student",
+        "planner"
+      ],
+      "ner_tags": [
+        17,
+        18,
+        13,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "rothco",
+        "canvas",
+        "shoulder",
+        "bag"
+      ],
+      "ner_tags": [
+        11,
+        15,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "iphone",
+        "11",
+        "xs",
+        "unlocked"
+      ],
+      "ner_tags": [
+        25,
+        26,
+        26,
+        17
+      ]
+    },
+    {
+      "tokens": [
+        "gym",
+        "leggings",
+        "women"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        13
+      ]
+    },
+    {
+      "tokens": [
+        "barbie",
+        "shirt"
+      ],
+      "ner_tags": [
+        7,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "little",
+        "blue",
+        "truck",
+        "birthday"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        19
+      ]
+    },
+    {
+      "tokens": [
+        "house",
+        "warming",
+        "gifts",
+        "new",
+        "home"
+      ],
+      "ner_tags": [
+        19,
+        20,
+        9,
+        19,
+        20
+      ]
+    },
+    {
+      "tokens": [
+        "caterpillar",
+        "oversee",
+        "steel",
+        "toe",
+        "waterproof",
+        "shoes"
+      ],
+      "ner_tags": [
+        11,
+        25,
+        15,
+        17,
+        18,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "wireless",
+        "digital",
+        "picture",
+        "frame",
+        "wifi"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        10,
+        10,
+        17
+      ]
+    },
+    {
+      "tokens": [
+        "fire",
+        "tv"
+      ],
+      "ner_tags": [
+        25,
+        26
+      ]
+    },
+    {
+      "tokens": [
+        "baby",
+        "walkers",
+        "disney"
+      ],
+      "ner_tags": [
+        13,
+        9,
+        11
+      ]
+    },
+    {
+      "tokens": [
+        "organic",
+        "bananas"
+      ],
+      "ner_tags": [
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "iphone",
+        "10",
+        "xs",
+        "max",
+        "price"
+      ],
+      "ner_tags": [
+        25,
+        26,
+        26,
+        26,
+        0
+      ]
+    },
+    {
+      "tokens": [
+        "ender",
+        "3"
+      ],
+      "ner_tags": [
+        25,
+        26
+      ]
+    },
+    {
+      "tokens": [
+        "salt",
+        "ebt",
+        "eligible"
+      ],
+      "ner_tags": [
+        9,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "food",
+        "label",
+        "picks"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "white",
+        "linen",
+        "shorts",
+        "for",
+        "women"
+      ],
+      "ner_tags": [
+        3,
+        15,
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "insulated",
+        "shoulder",
+        "tote"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "miltons",
+        "gluten",
+        "free",
+        "crackers"
+      ],
+      "ner_tags": [
+        11,
+        17,
+        18,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "lumi",
+        "baby",
+        "monitor",
+        "with",
+        "camera",
+        "and",
+        "audio"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        10,
+        17,
+        18,
+        18,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "smart",
+        "watch",
+        "for",
+        "android"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "massagers",
+        "for",
+        "muscles",
+        "handheld",
+        "deep",
+        "tissue"
+      ],
+      "ner_tags": [
+        9,
+        17,
+        18,
+        18,
+        18,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "sds",
+        "max",
+        "chisel"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "big",
+        "dog",
+        "pillow",
+        "for",
+        "large",
+        "dogs"
+      ],
+      "ner_tags": [
+        1,
+        9,
+        10,
+        17,
+        18,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "can",
+        "am",
+        "outlander",
+        "800",
+        "stickers"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        12,
+        29,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "myra",
+        "makeup",
+        "bag"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "em",
+        "sculpting",
+        "machine",
+        "professional"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10,
+        17
+      ]
+    },
+    {
+      "tokens": [
+        "floating",
+        "slelves",
+        "sets"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "harrys",
+        "razors",
+        "for",
+        "men"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "husand",
+        "pillow"
+      ],
+      "ner_tags": [
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "sunflower",
+        "earrings"
+      ],
+      "ner_tags": [
+        31,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "heroes",
+        "without",
+        "capes",
+        "shirt"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "glass",
+        "top",
+        "black",
+        "coffee",
+        "side",
+        "table"
+      ],
+      "ner_tags": [
+        15,
+        17,
+        3,
+        4,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "cat",
+        "box"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "gundam",
+        "tool",
+        "kit"
+      ],
+      "ner_tags": [
+        7,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "reindeer",
+        "decorations",
+        "christmas",
+        "indoor"
+      ],
+      "ner_tags": [
+        7,
+        9,
+        19,
+        17
+      ]
+    },
+    {
+      "tokens": [
+        "billie",
+        "eilish",
+        "hoodie"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "leupold",
+        "bikini",
+        "scope",
+        "covers"
+      ],
+      "ner_tags": [
+        11,
+        25,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "garden",
+        "string",
+        "solar",
+        "lights"
+      ],
+      "ner_tags": [
+        17,
+        31,
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "vortex",
+        "hd",
+        "lh",
+        "razor"
+      ],
+      "ner_tags": [
+        11,
+        25,
+        26,
+        26
+      ]
+    },
+    {
+      "tokens": [
+        "rubio",
+        "monocoat",
+        "super",
+        "white"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        25,
+        26
+      ]
+    },
+    {
+      "tokens": [
+        "fairy",
+        "light",
+        "bulbs"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "apron",
+        "and",
+        "chef",
+        "hat",
+        "for",
+        "kids"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10,
+        10,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "ring",
+        "camera"
+      ],
+      "ner_tags": [
+        11,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "circular",
+        "glass",
+        "baking",
+        "dish"
+      ],
+      "ner_tags": [
+        31,
+        15,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "fans",
+        "portable"
+      ],
+      "ner_tags": [
+        9,
+        17
+      ]
+    },
+    {
+      "tokens": [
+        "boat",
+        "trailer",
+        "roller",
+        "assembly"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "cords",
+        "for",
+        "zero",
+        "gravity",
+        "chair"
+      ],
+      "ner_tags": [
+        9,
+        17,
+        18,
+        18,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "jym",
+        "workout"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "hair",
+        "straightener",
+        "brush"
+      ],
+      "ner_tags": [
+        17,
+        18,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "clipper",
+        "lighters"
+      ],
+      "ner_tags": [
+        11,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "tile",
+        "with",
+        "replaceable",
+        "battery"
+      ],
+      "ner_tags": [
+        17,
+        15,
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "lg",
+        "stylo",
+        "5",
+        "battery",
+        "case"
+      ],
+      "ner_tags": [
+        11,
+        17,
+        18,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "black",
+        "christmas",
+        "stocking"
+      ],
+      "ner_tags": [
+        3,
+        19,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "kids",
+        "trampoline"
+      ],
+      "ner_tags": [
+        13,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "camera",
+        "stabilizer"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "marcus",
+        "miller",
+        "marcus"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        12
+      ]
+    },
+    {
+      "tokens": [
+        "multi",
+        "regional",
+        "dvd",
+        "player"
+      ],
+      "ner_tags": [
+        17,
+        18,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "athletic",
+        "shorts",
+        "men"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        13
+      ]
+    },
+    {
+      "tokens": [
+        "driving",
+        "fire",
+        "trucks",
+        "for",
+        "boys"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        10,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "heated",
+        "shirt"
+      ],
+      "ner_tags": [
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "i-blason",
+        "apple",
+        "watch",
+        "3",
+        "case",
+        "42mm"
+      ],
+      "ner_tags": [
+        11,
+        11,
+        25,
+        26,
+        9,
+        1
+      ]
+    },
+    {
+      "tokens": [
+        "camera",
+        "microphone"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "husqvarna",
+        "zero",
+        "turn",
+        "mower"
+      ],
+      "ner_tags": [
+        11,
+        17,
+        18,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "cable",
+        "for",
+        "dog",
+        "60-feet"
+      ],
+      "ner_tags": [
+        9,
+        17,
+        18,
+        1
+      ]
+    },
+    {
+      "tokens": [
+        "toy",
+        "story",
+        "3"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "5x",
+        "sweaters"
+      ],
+      "ner_tags": [
+        1,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "error",
+        "404",
+        "not",
+        "found"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "chicago",
+        "lighthouse",
+        "wall",
+        "clock"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "norelco",
+        "replacement",
+        "heads"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "bills",
+        "bracelet"
+      ],
+      "ner_tags": [
+        31,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "birthday",
+        "gifts",
+        "for",
+        "women"
+      ],
+      "ner_tags": [
+        19,
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "4mm",
+        "knitting",
+        "needles"
+      ],
+      "ner_tags": [
+        1,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "corn",
+        "hole",
+        "game",
+        "wooden"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10,
+        15
+      ]
+    },
+    {
+      "tokens": [
+        "xfx",
+        "radeon",
+        "rx",
+        "590"
+      ],
+      "ner_tags": [
+        25,
+        26,
+        26,
+        26
+      ]
+    },
+    {
+      "tokens": [
+        "lg",
+        "88",
+        "inch",
+        "tv"
+      ],
+      "ner_tags": [
+        11,
+        1,
+        2,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "wellboo",
+        "marble",
+        "comforter"
+      ],
+      "ner_tags": [
+        25,
+        3,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "iphone",
+        "7",
+        "case",
+        "white",
+        "cockatiel"
+      ],
+      "ner_tags": [
+        25,
+        26,
+        9,
+        3,
+        7
+      ]
+    },
+    {
+      "tokens": [
+        "ishoot",
+        "vertical",
+        "quick",
+        "release",
+        "plate"
+      ],
+      "ner_tags": [
+        25,
+        31,
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "redmi",
+        "note",
+        "7"
+      ],
+      "ner_tags": [
+        11,
+        25,
+        26
+      ]
+    },
+    {
+      "tokens": [
+        "nixwax",
+        "waterproof",
+        "wax"
+      ],
+      "ner_tags": [
+        25,
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "water",
+        "bong",
+        "for",
+        "smoking"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "pizza",
+        "patch",
+        "iron",
+        "on"
+      ],
+      "ner_tags": [
+        7,
+        9,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "lone",
+        "survivor"
+      ],
+      "ner_tags": [
+        7,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "pill",
+        "bottles",
+        "empty",
+        "with",
+        "caps"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        17,
+        18,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "chukka",
+        "boots",
+        "for",
+        "toddler",
+        "boys"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        13,
+        14,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "wyze",
+        "face",
+        "masks",
+        "50",
+        "count"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        10,
+        29,
+        30
+      ]
+    },
+    {
+      "tokens": [
+        "ghosts",
+        "by",
+        "raina",
+        "telgemeier"
+      ],
+      "ner_tags": [
+        7,
+        11,
+        12,
+        12
+      ]
+    },
+    {
+      "tokens": [
+        "green",
+        "6x",
+        "polo",
+        "shirt"
+      ],
+      "ner_tags": [
+        3,
+        1,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "palm",
+        "leave",
+        "linen",
+        "napkins"
+      ],
+      "ner_tags": [
+        3,
+        4,
+        15,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "vacuum/pressure",
+        "gauges",
+        "fuel",
+        "oil"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        17,
+        17
+      ]
+    },
+    {
+      "tokens": [
+        "toe",
+        "rings",
+        "for",
+        "women"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "champion",
+        "sweatpants"
+      ],
+      "ner_tags": [
+        11,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "thrush",
+        "exhaust",
+        "kit"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "3",
+        "way",
+        "valve"
+      ],
+      "ner_tags": [
+        17,
+        18,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "unsolved",
+        "case",
+        "files",
+        "game"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "eyes",
+        "of",
+        "the",
+        "grateful",
+        "deadworld",
+        "poster"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        8,
+        8,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "slyke",
+        "pet",
+        "bed"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "marilyn",
+        "monroe",
+        "wall",
+        "decor"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "cheetah",
+        "print",
+        "wallet"
+      ],
+      "ner_tags": [
+        3,
+        4,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "power",
+        "station",
+        "puleida"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "tokens": [
+        "clear",
+        "airpod",
+        "case"
+      ],
+      "ner_tags": [
+        3,
+        25,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "rugs",
+        "brown",
+        "and",
+        "beige"
+      ],
+      "ner_tags": [
+        9,
+        3,
+        0,
+        3
+      ]
+    },
+    {
+      "tokens": [
+        "sand",
+        "filter",
+        "pumps",
+        "for",
+        "above",
+        "ground",
+        "pools"
+      ],
+      "ner_tags": [
+        17,
+        17,
+        9,
+        17,
+        18,
+        18,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "big",
+        "backyard",
+        "umbrella"
+      ],
+      "ner_tags": [
+        31,
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "d",
+        "loop",
+        "material"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "cirgical",
+        "face",
+        "mask"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "holiday",
+        "ornaments"
+      ],
+      "ner_tags": [
+        19,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "swanson",
+        "multivitamin",
+        "without",
+        "iron"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        5,
+        6
+      ]
+    },
+    {
+      "tokens": [
+        "metal",
+        "letter",
+        "stamps"
+      ],
+      "ner_tags": [
+        15,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "go",
+        "girl",
+        "female",
+        "urination",
+        "device"
+      ],
+      "ner_tags": [
+        25,
+        26,
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "pillow",
+        "cases",
+        "20x20",
+        "velvet"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        1,
+        15
+      ]
+    },
+    {
+      "tokens": [
+        "gene",
+        "winfield"
+      ],
+      "ner_tags": [
+        11,
+        12
+      ]
+    },
+    {
+      "tokens": [
+        "care",
+        "for",
+        "me",
+        "carrier"
+      ],
+      "ner_tags": [
+        25,
+        26,
+        26,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "jeans",
+        "american",
+        "eagle",
+        "for",
+        "men"
+      ],
+      "ner_tags": [
+        9,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "pink",
+        "dresses",
+        "for",
+        "women"
+      ],
+      "ner_tags": [
+        3,
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "air",
+        "mattress"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "clive",
+        "barker"
+      ],
+      "ner_tags": [
+        7,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "a",
+        "moveable",
+        "feast",
+        "hemingway"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "love",
+        "heart",
+        "women",
+        "necklace"
+      ],
+      "ner_tags": [
+        31,
+        32,
+        13,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "nail",
+        "stickers"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "white",
+        "metallica",
+        "shirt"
+      ],
+      "ner_tags": [
+        3,
+        7,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "bigfoot",
+        "hat"
+      ],
+      "ner_tags": [
+        7,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "baby",
+        "sleeping",
+        "sack",
+        "0-3",
+        "months"
+      ],
+      "ner_tags": [
+        13,
+        9,
+        10,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "baby",
+        "chemistry"
+      ],
+      "ner_tags": [
+        13,
+        7
+      ]
+    },
+    {
+      "tokens": [
+        "richard",
+        "wagner",
+        "shirt"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "pack",
+        "of",
+        "25"
+      ],
+      "ner_tags": [
+        29,
+        30,
+        30
+      ]
+    },
+    {
+      "tokens": [
+        "light",
+        "bulb",
+        "changer",
+        "for",
+        "high",
+        "ceilings"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10,
+        17,
+        18,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "heel",
+        "cushion",
+        "inserts"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "cx",
+        "5",
+        "radio"
+      ],
+      "ner_tags": [
+        17,
+        18,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "personalized",
+        "gifts",
+        "for",
+        "men"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "vizio",
+        "50",
+        "inch",
+        "tv"
+      ],
+      "ner_tags": [
+        11,
+        1,
+        2,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "thermarest",
+        "pad"
+      ],
+      "ner_tags": [
+        25,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "88",
+        "key",
+        "weighted",
+        "keyboard"
+      ],
+      "ner_tags": [
+        17,
+        18,
+        18,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "harley",
+        "quinn",
+        "inflatable",
+        "mallet"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        15,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "good",
+        "night,",
+        "baby,",
+        "good",
+        "night"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "rines",
+        "volkswagen"
+      ],
+      "ner_tags": [
+        9,
+        17
+      ]
+    },
+    {
+      "tokens": [
+        "chair",
+        "covers",
+        "for",
+        "office",
+        "chairs",
+        "without",
+        "arms"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        17,
+        18,
+        18,
+        18,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "cute",
+        "little",
+        "stuffed",
+        "animals"
+      ],
+      "ner_tags": [
+        17,
+        31,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "stand",
+        "mixer"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "hand",
+        "dryers",
+        "for",
+        "bathrooms"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "pressure",
+        "washer"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "gundam",
+        "action",
+        "figures"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "back",
+        "belt",
+        "support",
+        "for",
+        "women"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "berkshire",
+        "sheets"
+      ],
+      "ner_tags": [
+        11,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "natures",
+        "bounty",
+        "probiotics",
+        "100",
+        "million"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        9,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "neutrogena",
+        "benzoyl",
+        "peroxide",
+        "cleanser"
+      ],
+      "ner_tags": [
+        11,
+        15,
+        16,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "cute",
+        "backpacks",
+        "for",
+        "teen",
+        "girls",
+        "with",
+        "usb",
+        "port",
+        "and",
+        "pencile",
+        "case"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        13,
+        14,
+        14,
+        17,
+        18,
+        18,
+        18,
+        18,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "bike",
+        "rack",
+        "for",
+        "rav",
+        "4"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        17,
+        18,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "burr",
+        "coffee",
+        "grinder"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "womens",
+        "comfy",
+        "shorts"
+      ],
+      "ner_tags": [
+        13,
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "office",
+        "decore",
+        "for",
+        "walls",
+        "teamwork"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        17,
+        18,
+        7
+      ]
+    },
+    {
+      "tokens": [
+        "cuff",
+        "bracelets",
+        "sterling",
+        "silver"
+      ],
+      "ner_tags": [
+        31,
+        9,
+        15,
+        16
+      ]
+    },
+    {
+      "tokens": [
+        "coffee",
+        "maker"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "track",
+        "teturn"
+      ],
+      "ner_tags": [
+        0,
+        0
+      ]
+    },
+    {
+      "tokens": [
+        "large",
+        "kites",
+        "for",
+        "adults"
+      ],
+      "ner_tags": [
+        1,
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "torch",
+        "lighter"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "bears",
+        "shirts",
+        "long",
+        "sleeve",
+        "kids"
+      ],
+      "ner_tags": [
+        7,
+        9,
+        31,
+        32,
+        13
+      ]
+    },
+    {
+      "tokens": [
+        "honeybush",
+        "tea"
+      ],
+      "ner_tags": [
+        15,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "mens",
+        "golf",
+        "belt"
+      ],
+      "ner_tags": [
+        13,
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "olympus",
+        "digital",
+        "camera",
+        "usb",
+        "cord"
+      ],
+      "ner_tags": [
+        11,
+        17,
+        18,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "kids",
+        "ergonomic",
+        "backpack"
+      ],
+      "ner_tags": [
+        13,
+        11,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "bags",
+        "for",
+        "women",
+        "crossbody"
+      ],
+      "ner_tags": [
+        9,
+        13,
+        14,
+        17
+      ]
+    },
+    {
+      "tokens": [
+        "40",
+        "gallon",
+        "tank"
+      ],
+      "ner_tags": [
+        1,
+        2,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "ralph",
+        "lauren",
+        "bedding",
+        "king",
+        "size",
+        "comforter",
+        "set"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        9,
+        1,
+        2,
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "intel",
+        "i5",
+        "cpu",
+        "laptop",
+        "solid",
+        "state",
+        "hardrive"
+      ],
+      "ner_tags": [
+        11,
+        17,
+        18,
+        18,
+        18,
+        18,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "nike",
+        "sweatshirts"
+      ],
+      "ner_tags": [
+        11,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "golf",
+        "ball",
+        "marker"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "led",
+        "waterproof",
+        "trailer",
+        "lights"
+      ],
+      "ner_tags": [
+        17,
+        18,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "wall",
+        "clock",
+        "silver"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        3
+      ]
+    },
+    {
+      "tokens": [
+        "texture",
+        "spray"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "washer",
+        "water",
+        "inlet",
+        "valve"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "mossy",
+        "oak",
+        "crocks"
+      ],
+      "ner_tags": [
+        25,
+        26,
+        11
+      ]
+    },
+    {
+      "tokens": [
+        "chocolate",
+        "butter",
+        "creams"
+      ],
+      "ner_tags": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "tokens": [
+        "pinewood",
+        "derby",
+        "wheels"
+      ],
+      "ner_tags": [
+        11,
+        25,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "heartland",
+        "gluten",
+        "free",
+        "pasta"
+      ],
+      "ner_tags": [
+        11,
+        17,
+        18,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "ruffle",
+        "hem",
+        "dress"
+      ],
+      "ner_tags": [
+        31,
+        32,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "privacy",
+        "screen",
+        "iphone",
+        "xr"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        25,
+        26
+      ]
+    },
+    {
+      "tokens": [
+        "msi",
+        "meg",
+        "x570",
+        "godlike"
+      ],
+      "ner_tags": [
+        11,
+        25,
+        26,
+        26
+      ]
+    },
+    {
+      "tokens": [
+        "5x8",
+        "area",
+        "rug",
+        "low",
+        "pile"
+      ],
+      "ner_tags": [
+        1,
+        2,
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "cordless",
+        "earbuds",
+        "for",
+        "iphone"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        0,
+        25
+      ]
+    },
+    {
+      "tokens": [
+        "4",
+        "inch",
+        "tall",
+        "under",
+        "bed",
+        "storage"
+      ],
+      "ner_tags": [
+        1,
+        2,
+        31,
+        17,
+        18,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "bath",
+        "cup",
+        "dispenser"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "liquid",
+        "protein"
+      ],
+      "ner_tags": [
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "octonauts",
+        "toys"
+      ],
+      "ner_tags": [
+        7,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "womens",
+        "black",
+        "and",
+        "white",
+        "nike",
+        "shoes"
+      ],
+      "ner_tags": [
+        13,
+        3,
+        0,
+        3,
+        11,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "max",
+        "dickmann"
+      ],
+      "ner_tags": [
+        11,
+        12
+      ]
+    },
+    {
+      "tokens": [
+        "50",
+        "birthday",
+        "tiara",
+        "sash"
+      ],
+      "ner_tags": [
+        19,
+        19,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "portable",
+        "counter",
+        "top",
+        "burner"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "personalized",
+        "entry",
+        "way",
+        "decor"
+      ],
+      "ner_tags": [
+        17,
+        18,
+        18,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "pushing",
+        "patrick"
+      ],
+      "ner_tags": [
+        7,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "rompers",
+        "for",
+        "toddlers",
+        "girls"
+      ],
+      "ner_tags": [
+        9,
+        13,
+        14,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "autism:",
+        "nightmare",
+        "without",
+        "end"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "white",
+        "cheeky",
+        "panties"
+      ],
+      "ner_tags": [
+        3,
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "best",
+        "fat",
+        "burning",
+        "cream",
+        "for",
+        "belly"
+      ],
+      "ner_tags": [
+        0,
+        17,
+        18,
+        9,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "purse",
+        "racks"
+      ],
+      "ner_tags": [
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "costumes",
+        "for",
+        "women",
+        "sexy"
+      ],
+      "ner_tags": [
+        9,
+        13,
+        14,
+        17
+      ]
+    },
+    {
+      "tokens": [
+        "waterproof",
+        "shoes",
+        "nike"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        11
+      ]
+    },
+    {
+      "tokens": [
+        "athlon",
+        "talos",
+        "3-12x40"
+      ],
+      "ner_tags": [
+        11,
+        25,
+        1
+      ]
+    },
+    {
+      "tokens": [
+        "macroband",
+        "sanitizing",
+        "spray"
+      ],
+      "ner_tags": [
+        11,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "american",
+        "girl",
+        "doll",
+        "samantha"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        9,
+        25
+      ]
+    },
+    {
+      "tokens": [
+        "first",
+        "period",
+        "kit",
+        "for",
+        "girls"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        10,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "home",
+        "light",
+        "chain",
+        "saw",
+        "sharpner"
+      ],
+      "ner_tags": [
+        17,
+        18,
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "viva",
+        "naturals",
+        "organic",
+        "extra",
+        "virgin",
+        "coconut",
+        "oil"
+      ],
+      "ner_tags": [
+        11,
+        12,
+        17,
+        17,
+        18,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "wood",
+        "steamer"
+      ],
+      "ner_tags": [
+        15,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "condolence",
+        "gift"
+      ],
+      "ner_tags": [
+        19,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "1/32",
+        "violin"
+      ],
+      "ner_tags": [
+        1,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "kids",
+        "electric",
+        "toothbrush",
+        "seago"
+      ],
+      "ner_tags": [
+        13,
+        17,
+        9,
+        11
+      ]
+    },
+    {
+      "tokens": [
+        "shedding",
+        "vacuum"
+      ],
+      "ner_tags": [
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "ladies",
+        "pajama",
+        "shorts",
+        "bermuda"
+      ],
+      "ner_tags": [
+        13,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "tokens": [
+        "hershey",
+        "candy",
+        "bulk"
+      ],
+      "ner_tags": [
+        25,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "clear",
+        "radar",
+        "seed",
+        "eraser"
+      ],
+      "ner_tags": [
+        25,
+        26,
+        11,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "running",
+        "pants",
+        "women"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        13
+      ]
+    },
+    {
+      "tokens": [
+        "dragon",
+        "masters",
+        "pern"
+      ],
+      "ner_tags": [
+        7,
+        8,
+        8
+      ]
+    },
+    {
+      "tokens": [
+        "wood",
+        "stove",
+        "insert"
+      ],
+      "ner_tags": [
+        15,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "bulk",
+        "journals",
+        "cheap"
+      ],
+      "ner_tags": [
+        29,
+        9,
+        23
+      ]
+    },
+    {
+      "tokens": [
+        "keyboard",
+        "under",
+        "$30"
+      ],
+      "ner_tags": [
+        9,
+        23,
+        24
+      ]
+    },
+    {
+      "tokens": [
+        "tablets",
+        "on",
+        "sale",
+        "prime"
+      ],
+      "ner_tags": [
+        9,
+        23,
+        24,
+        0
+      ]
+    },
+    {
+      "tokens": [
+        "russian",
+        "military",
+        "boots"
+      ],
+      "ner_tags": [
+        21,
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "japanese",
+        "squishies"
+      ],
+      "ner_tags": [
+        21,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "usa",
+        "sweatshirt",
+        "women"
+      ],
+      "ner_tags": [
+        21,
+        9,
+        13
+      ]
+    },
+    {
+      "tokens": [
+        "cannon",
+        "243",
+        "black",
+        "ink",
+        "cartridges"
+      ],
+      "ner_tags": [
+        11,
+        27,
+        3,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "hero",
+        "8",
+        "black"
+      ],
+      "ner_tags": [
+        27,
+        28,
+        3
+      ]
+    },
+    {
+      "tokens": [
+        "intel",
+        "nuc10i7fnk"
+      ],
+      "ner_tags": [
+        11,
+        27
+      ]
+    }
+  ]
+}

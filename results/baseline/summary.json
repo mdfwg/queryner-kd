@@ -1,0 +1,21 @@
+{
+    "successful_experiments": [],
+    "failed_experiments": [
+        {
+            "exp_id": 1,
+            "exp_name": "distilbert_processed_2e-5_crf",
+            "error": "name 'DistilBERTStudent' is not defined"
+        },
+        {
+            "exp_id": 2,
+            "exp_name": "distilbert_processed_2e-5_nocrf",
+            "error": "name 'DistilBERTStudent' is not defined"
+        },
+        {
+            "exp_id": 3,
+            "exp_name": "distilbert_processed_5e-5_crf",
+            "error": "name 'DistilBERTStudent' is not defined"
+        }
+    ],
+    "timestamp": "2025-11-20T17:27:02.302887"
+}

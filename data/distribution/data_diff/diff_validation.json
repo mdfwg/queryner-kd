@@ -1,0 +1,116 @@
+{
+  "split": "validation",
+  "only_in_raw": [],
+  "only_in_processed": [
+    {
+      "tokens": [
+        "cannon",
+        "243",
+        "black",
+        "ink",
+        "cartridges"
+      ],
+      "ner_tags": [
+        11,
+        27,
+        3,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "tablets",
+        "on",
+        "sale",
+        "prime"
+      ],
+      "ner_tags": [
+        9,
+        23,
+        24,
+        0
+      ]
+    },
+    {
+      "tokens": [
+        "intel",
+        "nuc10i7fnk"
+      ],
+      "ner_tags": [
+        11,
+        27
+      ]
+    },
+    {
+      "tokens": [
+        "hero",
+        "8",
+        "black"
+      ],
+      "ner_tags": [
+        27,
+        28,
+        3
+      ]
+    },
+    {
+      "tokens": [
+        "russian",
+        "military",
+        "boots"
+      ],
+      "ner_tags": [
+        21,
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "usa",
+        "sweatshirt",
+        "women"
+      ],
+      "ner_tags": [
+        21,
+        9,
+        13
+      ]
+    },
+    {
+      "tokens": [
+        "bulk",
+        "journals",
+        "cheap"
+      ],
+      "ner_tags": [
+        29,
+        9,
+        23
+      ]
+    },
+    {
+      "tokens": [
+        "japanese",
+        "squishies"
+      ],
+      "ner_tags": [
+        21,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "keyboard",
+        "under",
+        "$30"
+      ],
+      "ner_tags": [
+        9,
+        23,
+        24
+      ]
+    }
+  ]
+}

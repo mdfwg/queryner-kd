@@ -1,0 +1,445 @@
+{
+  "split": "test",
+  "only_in_raw": [
+    {
+      "tokens": [
+        "cannon",
+        "243",
+        "black",
+        "ink",
+        "cartridges"
+      ],
+      "ner_tags": [
+        11,
+        27,
+        3,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "bulk",
+        "tote",
+        "bags"
+      ],
+      "ner_tags": [
+        29,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "intel",
+        "nuc10i7fnk"
+      ],
+      "ner_tags": [
+        11,
+        27
+      ]
+    },
+    {
+      "tokens": [
+        "hero",
+        "8",
+        "black"
+      ],
+      "ner_tags": [
+        27,
+        28,
+        3
+      ]
+    },
+    {
+      "tokens": [
+        "russian",
+        "military",
+        "boots"
+      ],
+      "ner_tags": [
+        21,
+        17,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "2",
+        "piece",
+        "swimsuits",
+        "for",
+        "women"
+      ],
+      "ner_tags": [
+        29,
+        30,
+        9,
+        17,
+        13
+      ]
+    },
+    {
+      "tokens": [
+        "usa",
+        "sweatshirt",
+        "women"
+      ],
+      "ner_tags": [
+        21,
+        9,
+        13
+      ]
+    },
+    {
+      "tokens": [
+        "japanese",
+        "squishies"
+      ],
+      "ner_tags": [
+        21,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "1",
+        "huba",
+        "buba",
+        "origanal",
+        "not",
+        "exspencive"
+      ],
+      "ner_tags": [
+        29,
+        25,
+        26,
+        5,
+        23,
+        24
+      ]
+    },
+    {
+      "tokens": [
+        "dog",
+        "food",
+        "100",
+        "lb",
+        "bag"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        29,
+        30,
+        30
+      ]
+    },
+    {
+      "tokens": [
+        "push",
+        "pop",
+        "variety",
+        "pack"
+      ],
+      "ner_tags": [
+        25,
+        26,
+        29,
+        30
+      ]
+    }
+  ],
+  "only_in_processed": [
+    {
+      "tokens": [
+        "rustic",
+        "grey",
+        "wall",
+        "mirror"
+      ],
+      "ner_tags": [
+        5,
+        3,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "director",
+        "chair",
+        "without",
+        "arms"
+      ],
+      "ner_tags": [
+        17,
+        9,
+        5,
+        6
+      ]
+    },
+    {
+      "tokens": [
+        "good",
+        "drawing",
+        "tablets",
+        "with",
+        "screens"
+      ],
+      "ner_tags": [
+        5,
+        9,
+        10,
+        17,
+        18
+      ]
+    },
+    {
+      "tokens": [
+        "10m",
+        "waterproof",
+        "led",
+        "strip",
+        "lights",
+        "outdoor",
+        "without",
+        "controller"
+      ],
+      "ner_tags": [
+        17,
+        18,
+        9,
+        10,
+        10,
+        17,
+        5,
+        6
+      ]
+    },
+    {
+      "tokens": [
+        "03",
+        "dodge",
+        "ram",
+        "visor"
+      ],
+      "ner_tags": [
+        33,
+        11,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "chevy",
+        "truck",
+        "94",
+        "interior",
+        "trim",
+        "parts"
+      ],
+      "ner_tags": [
+        25,
+        26,
+        33,
+        17,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "modern",
+        "black",
+        "desk"
+      ],
+      "ner_tags": [
+        33,
+        3,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "bohemian",
+        "rug"
+      ],
+      "ner_tags": [
+        5,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "full",
+        "size",
+        "bed",
+        "without",
+        "box",
+        "spring"
+      ],
+      "ner_tags": [
+        1,
+        2,
+        9,
+        5,
+        6,
+        6
+      ]
+    },
+    {
+      "tokens": [
+        "camera",
+        "without",
+        "wifi"
+      ],
+      "ner_tags": [
+        9,
+        5,
+        6
+      ]
+    },
+    {
+      "tokens": [
+        "small",
+        "vanity",
+        "without",
+        "mirror"
+      ],
+      "ner_tags": [
+        1,
+        9,
+        5,
+        6
+      ]
+    },
+    {
+      "tokens": [
+        "1-1/2”",
+        "pop",
+        "up",
+        "drain",
+        "without",
+        "overflow"
+      ],
+      "ner_tags": [
+        1,
+        9,
+        10,
+        10,
+        5,
+        6
+      ]
+    },
+    {
+      "tokens": [
+        "empty",
+        "cake",
+        "boxes"
+      ],
+      "ner_tags": [
+        5,
+        9,
+        10
+      ]
+    },
+    {
+      "tokens": [
+        "apple",
+        "certified",
+        "refurbished",
+        "iphone"
+      ],
+      "ner_tags": [
+        11,
+        17,
+        5,
+        25
+      ]
+    },
+    {
+      "tokens": [
+        "clearance",
+        "jeans",
+        "for",
+        "man"
+      ],
+      "ner_tags": [
+        23,
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "tokens": [
+        "vintage",
+        "los",
+        "angeles",
+        "poster"
+      ],
+      "ner_tags": [
+        5,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "tokens": [
+        "electrolyte",
+        "powder",
+        "without",
+        "stevia"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        5,
+        6
+      ]
+    },
+    {
+      "tokens": [
+        "airpod",
+        "refurbished",
+        "apple"
+      ],
+      "ner_tags": [
+        25,
+        5,
+        11
+      ]
+    },
+    {
+      "tokens": [
+        "silver",
+        "pendants",
+        "without",
+        "chain"
+      ],
+      "ner_tags": [
+        15,
+        9,
+        5,
+        6
+      ]
+    },
+    {
+      "tokens": [
+        "dermestid",
+        "beetles",
+        "for",
+        "sale"
+      ],
+      "ner_tags": [
+        9,
+        10,
+        23,
+        24
+      ]
+    }
+  ]
+}

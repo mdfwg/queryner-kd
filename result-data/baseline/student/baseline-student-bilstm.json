@@ -1,0 +1,32 @@
+{
+    "successful_experiments": [
+        {
+            "exp_name": "bilstm_processed_3e-3_crf",
+            "val_f1": 0.6310279187817259,
+            "val_precision": 0.6310279187817259,
+            "val_recall": 0.6310279187817259,
+            "best_val_f1": 0.6538705583756346,
+            "test_f1": 0.5777230432402847,
+            "test_precision": 0.5777230432402847,
+            "test_recall": 0.5777230432402847,
+            "best_epoch": 4,
+            "stopped_epoch": 7,
+            "early_stopped": true
+        },
+        {
+            "exp_name": "bilstm_processed_3e-3_nocrf",
+            "val_f1": 0.6665609137055838,
+            "val_precision": 0.6665609137055838,
+            "val_recall": 0.6665609137055838,
+            "best_val_f1": 0.6830583756345178,
+            "test_f1": 0.5998905309250137,
+            "test_precision": 0.5998905309250137,
+            "test_recall": 0.5998905309250137,
+            "best_epoch": 4,
+            "stopped_epoch": 7,
+            "early_stopped": true
+        }
+    ],
+    "failed_experiments": [],
+    "timestamp": "2026-02-12T11:12:09.390513"
+}

@@ -1,0 +1,9 @@
+model,I_without_B
+bilstm-crf,84
+bilstm-nocrf,213
+distilbert-crf,119
+distilbert-nocrf,96
+teacher-crf,127
+teacher-nocrf,139
+tinybert-crf,177
+tinybert-nocrf,170

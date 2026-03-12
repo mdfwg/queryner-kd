@@ -1,0 +1,58 @@
+{
+    "successful_experiments": [
+        {
+            "exp_name": "distilbert_processed_2e-5_crf",
+            "val_f1": 0.7189086294416245,
+            "val_precision": 0.7189086294416244,
+            "val_recall": 0.7189086294416244,
+            "best_val_f1": 0.7236675126903553,
+            "test_f1": 0.657088122605364,
+            "test_precision": 0.657088122605364,
+            "test_recall": 0.657088122605364,
+            "best_epoch": 8,
+            "stopped_epoch": 11,
+            "early_stopped": true
+        },
+        {
+            "exp_name": "distilbert_processed_2e-5_nocrf",
+            "val_f1": 0.7293781725888325,
+            "val_precision": 0.7293781725888325,
+            "val_recall": 0.7293781725888325,
+            "best_val_f1": 0.734771573604061,
+            "test_f1": 0.6600985221674877,
+            "test_precision": 0.6600985221674877,
+            "test_recall": 0.6600985221674877,
+            "best_epoch": 5,
+            "stopped_epoch": 8,
+            "early_stopped": true
+        },
+        {
+            "exp_name": "tinybert_processed_2e-5_crf",
+            "val_f1": 0.6789340101522843,
+            "val_precision": 0.6789340101522843,
+            "val_recall": 0.6789340101522843,
+            "best_val_f1": 0.6852791878172588,
+            "test_f1": 0.6198686371100164,
+            "test_precision": 0.6198686371100164,
+            "test_recall": 0.6198686371100164,
+            "best_epoch": 11,
+            "stopped_epoch": 14,
+            "early_stopped": true
+        },
+        {
+            "exp_name": "tinybert_processed_2e-5_nocrf",
+            "val_f1": 0.6722715736040609,
+            "val_precision": 0.6722715736040609,
+            "val_recall": 0.6722715736040609,
+            "best_val_f1": 0.6817893401015228,
+            "test_f1": 0.6111111111111112,
+            "test_precision": 0.6111111111111112,
+            "test_recall": 0.6111111111111112,
+            "best_epoch": 10,
+            "stopped_epoch": 13,
+            "early_stopped": true
+        }
+    ],
+    "failed_experiments": [],
+    "timestamp": "2025-11-27T09:01:27.401437"
+}

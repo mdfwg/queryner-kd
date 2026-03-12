@@ -1,0 +1,110 @@
+{
+    "successful_experiments": [
+        {
+            "exp_name": "bilstm_processed_5e-4_crf",
+            "val_f1": 0.6494289340101523,
+            "val_precision": 0.6494289340101523,
+            "val_recall": 0.6494289340101523,
+            "best_val_f1": 0.6538705583756346,
+            "test_f1": 0.5927750410509032,
+            "test_precision": 0.5927750410509032,
+            "test_recall": 0.5927750410509032,
+            "best_epoch": 8,
+            "stopped_epoch": 11,
+            "early_stopped": true
+        },
+        {
+            "exp_name": "bilstm_processed_5e-4_nocrf",
+            "val_f1": 0.6541878172588832,
+            "val_precision": 0.6541878172588832,
+            "val_recall": 0.6541878172588832,
+            "best_val_f1": 0.6630710659898477,
+            "test_f1": 0.5905856595511768,
+            "test_precision": 0.5905856595511768,
+            "test_recall": 0.5905856595511768,
+            "best_epoch": 12,
+            "stopped_epoch": 15,
+            "early_stopped": false
+        },
+        {
+            "exp_name": "bilstm_processed_1e-3_crf",
+            "val_f1": 0.6500634517766497,
+            "val_precision": 0.6500634517766497,
+            "val_recall": 0.6500634517766497,
+            "best_val_f1": 0.6576776649746193,
+            "test_f1": 0.5870279146141215,
+            "test_precision": 0.5870279146141215,
+            "test_recall": 0.5870279146141215,
+            "best_epoch": 6,
+            "stopped_epoch": 9,
+            "early_stopped": true
+        },
+        {
+            "exp_name": "bilstm_processed_1e-3_nocrf",
+            "val_f1": 0.6434010152284264,
+            "val_precision": 0.6434010152284264,
+            "val_recall": 0.6434010152284264,
+            "best_val_f1": 0.6633883248730964,
+            "test_f1": 0.6007115489874111,
+            "test_precision": 0.6007115489874111,
+            "test_recall": 0.6007115489874111,
+            "best_epoch": 9,
+            "stopped_epoch": 12,
+            "early_stopped": true
+        },
+        {
+            "exp_name": "bilstm_processed_2e-3_crf",
+            "val_f1": 0.6376903553299492,
+            "val_precision": 0.6376903553299492,
+            "val_recall": 0.6376903553299492,
+            "best_val_f1": 0.6573604060913706,
+            "test_f1": 0.5799124247400109,
+            "test_precision": 0.5799124247400109,
+            "test_recall": 0.5799124247400109,
+            "best_epoch": 8,
+            "stopped_epoch": 11,
+            "early_stopped": true
+        },
+        {
+            "exp_name": "bilstm_processed_2e-3_nocrf",
+            "val_f1": 0.6630710659898477,
+            "val_precision": 0.6630710659898477,
+            "val_recall": 0.6630710659898477,
+            "best_val_f1": 0.680520304568528,
+            "test_f1": 0.6070060207991242,
+            "test_precision": 0.6070060207991242,
+            "test_recall": 0.6070060207991242,
+            "best_epoch": 6,
+            "stopped_epoch": 9,
+            "early_stopped": true
+        },
+        {
+            "exp_name": "bilstm_processed_3e-3_crf",
+            "val_f1": 0.6459390862944162,
+            "val_precision": 0.6459390862944162,
+            "val_recall": 0.6459390862944162,
+            "best_val_f1": 0.6500634517766497,
+            "test_f1": 0.5738916256157636,
+            "test_precision": 0.5738916256157636,
+            "test_recall": 0.5738916256157636,
+            "best_epoch": 4,
+            "stopped_epoch": 7,
+            "early_stopped": true
+        },
+        {
+            "exp_name": "bilstm_processed_3e-3_nocrf",
+            "val_f1": 0.6611675126903553,
+            "val_precision": 0.6611675126903553,
+            "val_recall": 0.6611675126903553,
+            "best_val_f1": 0.6656091370558376,
+            "test_f1": 0.60207991242474,
+            "test_precision": 0.60207991242474,
+            "test_recall": 0.60207991242474,
+            "best_epoch": 3,
+            "stopped_epoch": 6,
+            "early_stopped": true
+        }
+    ],
+    "failed_experiments": [],
+    "timestamp": "2026-03-04T17:05:30.201057"
+}

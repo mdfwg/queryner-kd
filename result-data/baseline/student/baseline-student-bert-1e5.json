@@ -1,0 +1,58 @@
+{
+    "successful_experiments": [
+        {
+            "exp_name": "distilbert_processed_1e-5_crf",
+            "val_f1": 0.7192258883248731,
+            "val_precision": 0.7192258883248731,
+            "val_recall": 0.7192258883248731,
+            "best_val_f1": 0.7227157360406091,
+            "test_f1": 0.6546250684181719,
+            "test_precision": 0.6546250684181719,
+            "test_recall": 0.6546250684181719,
+            "best_epoch": 8,
+            "stopped_epoch": 10,
+            "early_stopped": true
+        },
+        {
+            "exp_name": "distilbert_processed_1e-5_nocrf",
+            "val_f1": 0.7109771573604061,
+            "val_precision": 0.7109771573604061,
+            "val_recall": 0.7109771573604061,
+            "best_val_f1": 0.7112944162436549,
+            "test_f1": 0.6598248494800218,
+            "test_precision": 0.6598248494800218,
+            "test_recall": 0.6598248494800218,
+            "best_epoch": 5,
+            "stopped_epoch": 7,
+            "early_stopped": true
+        },
+        {
+            "exp_name": "tinybert_processed_1e-5_crf",
+            "val_f1": 0.6665609137055838,
+            "val_precision": 0.6665609137055838,
+            "val_recall": 0.6665609137055838,
+            "best_val_f1": 0.6665609137055838,
+            "test_f1": 0.6075533661740559,
+            "test_precision": 0.6075533661740559,
+            "test_recall": 0.6075533661740559,
+            "best_epoch": 15,
+            "stopped_epoch": 15,
+            "early_stopped": false
+        },
+        {
+            "exp_name": "tinybert_processed_1e-5_nocrf",
+            "val_f1": 0.674492385786802,
+            "val_precision": 0.674492385786802,
+            "val_recall": 0.674492385786802,
+            "best_val_f1": 0.6754441624365483,
+            "test_f1": 0.6141215106732348,
+            "test_precision": 0.6141215106732348,
+            "test_recall": 0.6141215106732348,
+            "best_epoch": 12,
+            "stopped_epoch": 14,
+            "early_stopped": true
+        }
+    ],
+    "failed_experiments": [],
+    "timestamp": "2026-03-10T15:04:25.242018"
+}

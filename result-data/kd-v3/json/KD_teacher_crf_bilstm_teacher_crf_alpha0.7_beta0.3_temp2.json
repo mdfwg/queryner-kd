@@ -1,0 +1,118 @@
+{
+    "experiment": {
+        "id": 23,
+        "teacher_name": "teacher_crf",
+        "teacher_checkpoint": "/kaggle/input/models/dazgit/teacher-processed-2e-5-nocrf-best/pytorch/default/5/teacher_processed_1e-5_crf_best.pt",
+        "teacher_class": "QueryNERTeacher",
+        "teacher_path": "bert-base-uncased",
+        "teacher_crf": true,
+        "student_name": "bilstm",
+        "student_class": "BiLSTMStudent",
+        "student_path": "bert-base-uncased",
+        "student_crf": false,
+        "student_lr": 0.002,
+        "data_paths": {
+            "train": "/kaggle/input/queryner-dataset/data/processed/train.json",
+            "val": "/kaggle/input/queryner-dataset/data/processed/validation.json",
+            "test": "/kaggle/input/queryner-dataset/data/processed/test.json"
+        },
+        "crf_combination": "teacher_crf",
+        "alpha": 0.7,
+        "beta": 0.3,
+        "temperature": 2.0,
+        "exp_name": "KD_teacher_crf_bilstm_teacher_crf_alpha0.7_beta0.3_temp2"
+    },
+    "history": {
+        "train_loss": [
+            2.2142351700335134,
+            1.1940584703367583,
+            0.7257817812111913,
+            0.4541197042075955,
+            0.3075515001404042
+        ],
+        "val_loss": [
+            1.41748212490763,
+            1.1450685581990652,
+            1.1073564141988754,
+            1.10318018921784,
+            1.102601939014026
+        ],
+        "train_kd": [
+            2.2948104055560363,
+            1.1842887333461216,
+            0.7210073923578068,
+            0.46333915457433583,
+            0.32619248567795267
+        ],
+        "val_kd": [
+            1.3445726462772913,
+            1.0311801944460188,
+            0.9740010138068881,
+            0.954474321433476,
+            0.9400147667952946
+        ],
+        "train_stu": [
+            2.026226305961609,
+            1.2168545170706146,
+            0.7369220119349811,
+            0.4326076552575948,
+            0.2640558648170257
+        ],
+        "val_stu": [
+            1.5876042587416512,
+            1.410808035305568,
+            1.4185190009219306,
+            1.450160556605884,
+            1.481971996171134
+        ],
+        "train_precision": [
+            0.41123833010392813,
+            0.6354060243086137,
+            0.7692443191826669,
+            0.8700369913686806,
+            0.9276026070107452
+        ],
+        "train_recall": [
+            0.41123833010392813,
+            0.6354060243086137,
+            0.7692443191826669,
+            0.8700369913686806,
+            0.9276026070107452
+        ],
+        "train_f1": [
+            0.41123833010392813,
+            0.6354060243086137,
+            0.7692443191826668,
+            0.8700369913686806,
+            0.9276026070107452
+        ],
+        "val_precision": [
+            0.549492385786802,
+            0.5951776649746193,
+            0.6154822335025381,
+            0.6142131979695431,
+            0.6129441624365483
+        ],
+        "val_recall": [
+            0.549492385786802,
+            0.5951776649746193,
+            0.6154822335025381,
+            0.6142131979695431,
+            0.6129441624365483
+        ],
+        "val_f1": [
+            0.549492385786802,
+            0.5951776649746193,
+            0.6154822335025381,
+            0.6142131979695431,
+            0.6129441624365483
+        ],
+        "test_loss": 1.7871777154505253,
+        "test_precision": 0.5525451559934319,
+        "test_recall": 0.5525451559934319,
+        "test_f1": 0.5525451559934319,
+        "stopped_epoch": 5,
+        "best_epoch": 3
+    },
+    "timestamp": "2026-03-10T21:09:30.454823"
+}

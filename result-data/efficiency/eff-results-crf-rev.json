@@ -1,0 +1,74 @@
+{
+    "teacher": {
+        "parameters": {
+            "total": 109509923,
+            "trainable": 109509923
+        },
+        "flops": {
+            "base_flops": 21770993664.0,
+            "crf_flops": 0,
+            "total_flops": 21770993664.0
+        },
+        "latency_ms": {
+            "avg": 9.38847541809082,
+            "p50": 9.271740913391113,
+            "p90": 10.07068157196045,
+            "p99": 10.799612998962385,
+            "throughput_samples_per_sec": 106.51356641708644
+        }
+    },
+    "distil": {
+        "parameters": {
+            "total": 66389795,
+            "trainable": 66389795
+        },
+        "flops": {
+            "base_flops": 10888740864.0,
+            "crf_flops": 0,
+            "total_flops": 10888740864.0
+        },
+        "latency_ms": {
+            "avg": 5.049269199371338,
+            "p50": 5.021214485168457,
+            "p90": 5.596065521240234,
+            "p99": 6.108231544494607,
+            "throughput_samples_per_sec": 198.04846216646672
+        }
+    },
+    "tiny": {
+        "parameters": {
+            "total": 14361203,
+            "trainable": 14361203
+        },
+        "flops": {
+            "base_flops": 1171357824.0,
+            "crf_flops": 0,
+            "total_flops": 1171357824.0
+        },
+        "latency_ms": {
+            "avg": 3.171645402908325,
+            "p50": 3.0182600021362305,
+            "p90": 4.003262519836426,
+            "p99": 4.761044979095458,
+            "throughput_samples_per_sec": 315.2937585907376
+        }
+    },
+    "bilstm": {
+        "parameters": {
+            "total": 10622435,
+            "trainable": 10622435
+        },
+        "flops": {
+            "base_flops": 376473600.0,
+            "crf_flops": 0,
+            "total_flops": 376473600.0
+        },
+        "latency_ms": {
+            "avg": 6.383072137832642,
+            "p50": 6.066799163818359,
+            "p90": 6.720089912414551,
+            "p99": 7.5698709487914995,
+            "throughput_samples_per_sec": 156.66437389497338
+        }
+    }
+}

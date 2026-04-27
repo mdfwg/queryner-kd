@@ -1,0 +1,7 @@
+nama,model_student,kombinasi_crf,alpha,beta,temperature,f1_uji
+distilbert-nocrf,DistilBERT,both_nocrf,0.5,0.5,4,66.39
+tinybert-nocrf,TinyBERT,both_nocrf,0.7,0.3,4,62.92
+bilstm-nocrf,BiLSTM,both_nocrf,0.5,0.5,2,57.8
+distilbert-crf,DistilBERT,both_crf,0.5,0.5,4,66.09
+tinybert-crf,TinyBERT,both_crf,0.7,0.3,4,61.9
+bilstm-crf,BiLSTM,both_crf,0.7,0.3,2,56.16
